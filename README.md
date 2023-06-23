@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hii !🤝 I am Subhasish Behera<br>🌱 I’m interested in Cloud Native technologies and Distributed Systems. <br>
+<br>Hii !🤝 I am Subhasish Behera<br>🌱 I’m interested in Cloud technologies and Distributed Systems. <br>
 
 
 ## 🌐 Socials:
