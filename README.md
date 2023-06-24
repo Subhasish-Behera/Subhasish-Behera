@@ -40,7 +40,7 @@
 - [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java Data Structures &amp; Algorithms bootcamp of Community Classroom. (1 year ago)
 - [knative-sandbox/sample-source](https://github.com/knative-sandbox/sample-source) - A template project for writing your own Knative eventing source. (1 year ago)
 - [hiteshchoudhary/golang](https://github.com/hiteshchoudhary/golang) - A series on golang - Code files (1 year ago)
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime. (1 year ago)
+- [sparckles/robyn](https://github.com/sparckles/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime. (1 year ago)
 
 #### 👷 Check out what I'm currently working on
 
