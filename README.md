@@ -47,5 +47,4 @@
 - [Subhasish-Behera/tt_assignment](https://github.com/Subhasish-Behera/tt_assignment) -  (1 month ago)
 - [Subhasish-Behera/GAMES](https://github.com/Subhasish-Behera/GAMES) -  (7 months ago)
 - [Subhasish-Behera/hiparpen](https://github.com/Subhasish-Behera/hiparpen) -  (9 months ago)
-- [Subhasish-Behera/CODE_](https://github.com/Subhasish-Behera/CODE_) -  (1 year ago)
 
