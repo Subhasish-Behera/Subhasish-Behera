@@ -17,7 +17,7 @@
 - [[WIP]model/messages/api_types: alert_words mark up](https://github.com/zulip/zulip-terminal/pull/1314) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (4 months ago)
 - [[WIP] Notify when a message with alert word is received](https://github.com/zulip/zulip-terminal/pull/1301) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (4 months ago)
 - [[WIP] Handle typing events from multiple users in a PM narrow ](https://github.com/zulip/zulip-terminal/pull/1291) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (4 months ago)
-- [[WIP] Disable cycling while editing a PM](https://github.com/zulip/zulip-terminal/pull/1280) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (5 months ago)
+- [[WIP] Disable cycling while editing a PM](https://github.com/zulip/zulip-terminal/pull/1280) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (6 months ago)
 - [[WIP] Maintain position in topic list when toggling topic list](https://github.com/zulip/zulip-terminal/pull/1277) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (6 months ago)
 - [[receiver/kafkareceiver] support zipkin_json(v1)](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/17186) on [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) (6 months ago)
 - [Maintain position in topic list when toggling topic list (issue #617)](https://github.com/zulip/zulip-terminal/pull/1275) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (6 months ago)
@@ -27,7 +27,7 @@
 #### ⭐ Check out my recent stars
 
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (2 weeks ago)
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (3 weeks ago)
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (4 weeks ago)
 - [BDLS-bft/BDLSChain](https://github.com/BDLS-bft/BDLSChain) - Go language implementation of a blockchain based on the BDLS BFT protocol. The implementation was adapted from Ethereum implementation (2 months ago)
 - [hyperledger-labs/bdls](https://github.com/hyperledger-labs/bdls) - BDLS (2 months ago)
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (8 months ago)
@@ -44,7 +44,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Subhasish-Behera/Unclaimed](https://github.com/Subhasish-Behera/Unclaimed) -  (2 days ago)
+- [Subhasish-Behera/Unclaimed](https://github.com/Subhasish-Behera/Unclaimed) -  (3 days ago)
 - [Subhasish-Behera/tt_assignment](https://github.com/Subhasish-Behera/tt_assignment) -  (1 month ago)
 - [Subhasish-Behera/GAMES](https://github.com/Subhasish-Behera/GAMES) -  (7 months ago)
 - [Subhasish-Behera/hiparpen](https://github.com/Subhasish-Behera/hiparpen) -  (9 months ago)
