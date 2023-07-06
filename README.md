@@ -12,7 +12,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [upload: Enable File Upload for users.](https://github.com/zulip/zulip-terminal/pull/1414) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (1 day ago)
+- [upload: Enable File Upload for users.](https://github.com/zulip/zulip-terminal/pull/1414) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (2 days ago)
 - [Refactor: change pm_with to pm-with](https://github.com/zulip/zulip-terminal/pull/1352) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (3 months ago)
 - [add moved label for topic/stream changes](https://github.com/zulip/zulip-terminal/pull/1331) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (3 months ago)
 - [[WIP]model/messages/api_types: alert_words mark up](https://github.com/zulip/zulip-terminal/pull/1314) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (4 months ago)
@@ -35,7 +35,7 @@
 - [TheRealSibasishBehera/Coel](https://github.com/TheRealSibasishBehera/Coel) -  (8 months ago)
 - [Falytics-Corp/OneIndiaClub-Master-Branch](https://github.com/Falytics-Corp/OneIndiaClub-Master-Branch) - OneIndiaClub-Master-Branch (8 months ago)
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) -   A distributed, fast open-source graph database featuring horizontal scalability and high availability (8 months ago)
-- [zairza-cetb/Heart-to-Heart-Frontend](https://github.com/zairza-cetb/Heart-to-Heart-Frontend) -  (8 months ago)
+- [zairza-cetb/Heart-to-Heart-Frontend](https://github.com/zairza-cetb/Heart-to-Heart-Frontend) -  (9 months ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (9 months ago)
 - [knockcat/Leetcode](https://github.com/knockcat/Leetcode) - This Repository Contains All My Solved Leetcode Problems. (10 months ago)
 - [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java Data Structures &amp; Algorithms bootcamp of Community Classroom. (1 year ago)
@@ -45,8 +45,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Subhasish-Behera/Unclaimed](https://github.com/Subhasish-Behera/Unclaimed) -  (5 days ago)
-- [Subhasish-Behera/tt_assignment](https://github.com/Subhasish-Behera/tt_assignment) -  (1 month ago)
+- [Subhasish-Behera/Unclaimed](https://github.com/Subhasish-Behera/Unclaimed) -  (6 days ago)
+- [Subhasish-Behera/tt_assignment](https://github.com/Subhasish-Behera/tt_assignment) -  (2 months ago)
 - [Subhasish-Behera/GAMES](https://github.com/Subhasish-Behera/GAMES) -  (7 months ago)
 - [Subhasish-Behera/hiparpen](https://github.com/Subhasish-Behera/hiparpen) -  (9 months ago)
 
