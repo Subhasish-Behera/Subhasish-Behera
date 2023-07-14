@@ -27,7 +27,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (4 weeks ago)
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (1 month ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (1 month ago)
 - [BDLS-bft/BDLSChain](https://github.com/BDLS-bft/BDLSChain) - Go language implementation of a blockchain based on the BDLS BFT protocol. The implementation was adapted from Ethereum implementation (3 months ago)
 - [hyperledger-labs/bdls](https://github.com/hyperledger-labs/bdls) - BDLS (3 months ago)
@@ -45,7 +45,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Subhasish-Behera/Unclaimed](https://github.com/Subhasish-Behera/Unclaimed) -  (1 week ago)
+- [Subhasish-Behera/Unclaimed](https://github.com/Subhasish-Behera/Unclaimed) -  (2 weeks ago)
 - [Subhasish-Behera/tt_assignment](https://github.com/Subhasish-Behera/tt_assignment) -  (2 months ago)
 - [Subhasish-Behera/GAMES](https://github.com/Subhasish-Behera/GAMES) -  (7 months ago)
 - [Subhasish-Behera/hiparpen](https://github.com/Subhasish-Behera/hiparpen) -  (9 months ago)
