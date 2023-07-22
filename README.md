@@ -13,7 +13,7 @@
 #### 🔨 Check out my recent pull requests
 
 - [upload: Enable File Upload for users.](https://github.com/zulip/zulip-terminal/pull/1414) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (2 weeks ago)
-- [Refactor: change pm_with to pm-with](https://github.com/zulip/zulip-terminal/pull/1352) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (3 months ago)
+- [Refactor: change pm_with to pm-with](https://github.com/zulip/zulip-terminal/pull/1352) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (4 months ago)
 - [add moved label for topic/stream changes](https://github.com/zulip/zulip-terminal/pull/1331) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (4 months ago)
 - [[WIP]model/messages/api_types: alert_words mark up](https://github.com/zulip/zulip-terminal/pull/1314) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (4 months ago)
 - [[WIP] Notify when a message with alert word is received](https://github.com/zulip/zulip-terminal/pull/1301) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (5 months ago)
@@ -47,6 +47,6 @@
 
 - [Subhasish-Behera/Unclaimed](https://github.com/Subhasish-Behera/Unclaimed) -  (3 weeks ago)
 - [Subhasish-Behera/tt_assignment](https://github.com/Subhasish-Behera/tt_assignment) -  (2 months ago)
-- [Subhasish-Behera/GAMES](https://github.com/Subhasish-Behera/GAMES) -  (7 months ago)
-- [Subhasish-Behera/hiparpen](https://github.com/Subhasish-Behera/hiparpen) -  (9 months ago)
+- [Subhasish-Behera/GAMES](https://github.com/Subhasish-Behera/GAMES) -  (8 months ago)
+- [Subhasish-Behera/hiparpen](https://github.com/Subhasish-Behera/hiparpen) -  (10 months ago)
 
