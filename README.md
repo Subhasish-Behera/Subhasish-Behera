@@ -38,7 +38,7 @@
 - [zairza-cetb/Heart-to-Heart-Frontend](https://github.com/zairza-cetb/Heart-to-Heart-Frontend) -  (9 months ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (9 months ago)
 - [knockcat/Leetcode](https://github.com/knockcat/Leetcode) - This Repository Contains All My Solved Leetcode Problems. (11 months ago)
-- [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java Data Structures &amp; Algorithms bootcamp of Community Classroom. (1 year ago)
+- [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java Data Structures &amp; Algorithms &#43; interview preparation bootcamp of WeMakeDevs. (1 year ago)
 - [knative-sandbox/sample-source](https://github.com/knative-sandbox/sample-source) - A template project for writing your own Knative eventing source. (1 year ago)
 - [hiteshchoudhary/golang](https://github.com/hiteshchoudhary/golang) - A series on golang - Code files (1 year ago)
 - [sparckles/robyn](https://github.com/sparckles/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime. (1 year ago)
