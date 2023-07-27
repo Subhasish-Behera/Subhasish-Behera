@@ -27,6 +27,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads. (today)
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (1 month ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (1 month ago)
 - [BDLS-bft/BDLSChain](https://github.com/BDLS-bft/BDLSChain) - Go language implementation of a blockchain based on the BDLS BFT protocol. The implementation was adapted from Ethereum implementation (3 months ago)
@@ -41,7 +42,6 @@
 - [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java Data Structures &amp; Algorithms &#43; interview preparation bootcamp of WeMakeDevs. (1 year ago)
 - [knative-sandbox/sample-source](https://github.com/knative-sandbox/sample-source) - A template project for writing your own Knative eventing source. (1 year ago)
 - [hiteshchoudhary/golang](https://github.com/hiteshchoudhary/golang) - A series on golang - Code files (1 year ago)
-- [sparckles/robyn](https://github.com/sparckles/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime. (1 year ago)
 
 #### 👷 Check out what I'm currently working on
 
