@@ -27,6 +27,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记 (today)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads. (2 weeks ago)
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (2 months ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (2 months ago)
@@ -41,7 +42,6 @@
 - [knockcat/Leetcode](https://github.com/knockcat/Leetcode) - This Repository Contains All My Solved Leetcode Problems. (11 months ago)
 - [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java Data Structures &amp; Algorithms &#43; interview preparation bootcamp of WeMakeDevs. (1 year ago)
 - [knative-extensions/sample-source](https://github.com/knative-extensions/sample-source) - A template project for writing your own Knative eventing source. (1 year ago)
-- [hiteshchoudhary/golang](https://github.com/hiteshchoudhary/golang) - A series on golang - Code files (1 year ago)
 
 #### 👷 Check out what I'm currently working on
 
