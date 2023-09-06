@@ -12,7 +12,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Implement muted users2](https://github.com/zulip/zulip-terminal/pull/1425) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (1 week ago)
+- [Implement muted users2](https://github.com/zulip/zulip-terminal/pull/1425) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (2 weeks ago)
 - [upload: Enable File Upload for users.](https://github.com/zulip/zulip-terminal/pull/1414) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (2 months ago)
 - [Refactor: change pm_with to pm-with](https://github.com/zulip/zulip-terminal/pull/1352) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (5 months ago)
 - [add moved label for topic/stream changes](https://github.com/zulip/zulip-terminal/pull/1331) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (5 months ago)
@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (3 days ago)
-- [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记 (2 weeks ago)
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (4 days ago)
+- [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记 (3 weeks ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 month ago)
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (2 months ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (3 months ago)
