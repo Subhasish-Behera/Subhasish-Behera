@@ -42,7 +42,7 @@
 - [zairza-cetb/Heart-to-Heart-Frontend](https://github.com/zairza-cetb/Heart-to-Heart-Frontend) -  (11 months ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (11 months ago)
 - [knockcat/Leetcode](https://github.com/knockcat/Leetcode) - This Repository Contains All My Solved Leetcode Problems. (1 year ago)
-- [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java Data Structures &amp; Algorithms &#43; interview preparation bootcamp of WeMakeDevs. (1 year ago)
+- [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java data structures &amp; algorithms &#43; interview preparation bootcamp of WeMakeDevs. (1 year ago)
 
 #### 👷 Check out what I'm currently working on
 
