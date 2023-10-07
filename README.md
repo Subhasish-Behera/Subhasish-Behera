@@ -46,7 +46,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (1 month ago)
+- [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (2 months ago)
 - [Subhasish-Behera/Unclaimed](https://github.com/Subhasish-Behera/Unclaimed) -  (3 months ago)
 - [Subhasish-Behera/tt_assignment](https://github.com/Subhasish-Behera/tt_assignment) -  (5 months ago)
 - [Subhasish-Behera/GAMES](https://github.com/Subhasish-Behera/GAMES) -  (10 months ago)
