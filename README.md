@@ -33,7 +33,7 @@
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (2 months ago)
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (3 months ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (4 months ago)
-- [BDLS-bft/BDLSChain](https://github.com/BDLS-bft/BDLSChain) - Go language implementation of a blockchain based on the BDLS BFT protocol. The implementation was adapted from Ethereum implementation (5 months ago)
+- [BDLS-bft/BDLSChain](https://github.com/BDLS-bft/BDLSChain) - Go language implementation of a blockchain based on the BDLS BFT protocol. The implementation was adapted from Ethereum implementation (6 months ago)
 - [hyperledger-labs/bdls](https://github.com/hyperledger-labs/bdls) - BDLS (6 months ago)
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (11 months ago)
 - [TheRealSibasishBehera/Coel](https://github.com/TheRealSibasishBehera/Coel) -  (11 months ago)
