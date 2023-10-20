@@ -14,7 +14,7 @@
 
 - [Implement muted users](https://github.com/zulip/zulip-terminal/pull/1425) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (1 month ago)
 - [upload: Enable File Upload for users.](https://github.com/zulip/zulip-terminal/pull/1414) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (3 months ago)
-- [Refactor: change pm_with to pm-with](https://github.com/zulip/zulip-terminal/pull/1352) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (6 months ago)
+- [Refactor: change pm_with to pm-with](https://github.com/zulip/zulip-terminal/pull/1352) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (7 months ago)
 - [add moved label for topic/stream changes](https://github.com/zulip/zulip-terminal/pull/1331) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (7 months ago)
 - [[WIP]model/messages/api_types: alert_words mark up](https://github.com/zulip/zulip-terminal/pull/1314) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (7 months ago)
 - [[WIP] Notify when a message with alert word is received](https://github.com/zulip/zulip-terminal/pull/1301) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (8 months ago)
@@ -49,5 +49,5 @@
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (2 months ago)
 - [Subhasish-Behera/Unclaimed](https://github.com/Subhasish-Behera/Unclaimed) -  (3 months ago)
 - [Subhasish-Behera/tt_assignment](https://github.com/Subhasish-Behera/tt_assignment) -  (5 months ago)
-- [Subhasish-Behera/GAMES](https://github.com/Subhasish-Behera/GAMES) -  (10 months ago)
+- [Subhasish-Behera/GAMES](https://github.com/Subhasish-Behera/GAMES) -  (11 months ago)
 
