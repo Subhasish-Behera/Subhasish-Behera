@@ -28,6 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines in Spark (today)
 - [anthdm/vscode-config](https://github.com/anthdm/vscode-config) - My vscode configuration (4 days ago)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (1 month ago)
 - [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记 (2 months ago)
@@ -42,7 +43,6 @@
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) -   A distributed, fast open-source graph database featuring horizontal scalability and high availability (1 year ago)
 - [zairza-cetb/Heart-to-Heart-Frontend](https://github.com/zairza-cetb/Heart-to-Heart-Frontend) -  (1 year ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 year ago)
-- [knockcat/Leetcode](https://github.com/knockcat/Leetcode) - This Repository Contains All My Solved Leetcode Problems. (1 year ago)
 
 #### 👷 Check out what I'm currently working on
 
