@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines in Spark (2 days ago)
-- [anthdm/vscode-config](https://github.com/anthdm/vscode-config) - My vscode configuration (6 days ago)
+- [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines in Spark (3 days ago)
+- [anthdm/vscode-config](https://github.com/anthdm/vscode-config) - My vscode configuration (1 week ago)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (1 month ago)
 - [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记 (2 months ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (3 months ago)
