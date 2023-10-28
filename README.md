@@ -16,7 +16,7 @@
 - [upload: Enable File Upload for users.](https://github.com/zulip/zulip-terminal/pull/1414) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (3 months ago)
 - [Refactor: change pm_with to pm-with](https://github.com/zulip/zulip-terminal/pull/1352) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (7 months ago)
 - [add moved label for topic/stream changes](https://github.com/zulip/zulip-terminal/pull/1331) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (7 months ago)
-- [[WIP]model/messages/api_types: alert_words mark up](https://github.com/zulip/zulip-terminal/pull/1314) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (7 months ago)
+- [[WIP]model/messages/api_types: alert_words mark up](https://github.com/zulip/zulip-terminal/pull/1314) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (8 months ago)
 - [[WIP] Notify when a message with alert word is received](https://github.com/zulip/zulip-terminal/pull/1301) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (8 months ago)
 - [[WIP] Handle typing events from multiple users in a PM narrow ](https://github.com/zulip/zulip-terminal/pull/1291) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (8 months ago)
 - [[WIP] Disable cycling while editing a PM](https://github.com/zulip/zulip-terminal/pull/1280) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (9 months ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines in Spark (3 days ago)
+- [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines in Spark (4 days ago)
 - [anthdm/vscode-config](https://github.com/anthdm/vscode-config) - My vscode configuration (1 week ago)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (1 month ago)
 - [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记 (2 months ago)
@@ -37,7 +37,7 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (4 months ago)
 - [BDLS-bft/BDLSChain](https://github.com/BDLS-bft/BDLSChain) - Go language implementation of a blockchain based on the BDLS BFT protocol. The implementation was adapted from Ethereum implementation (6 months ago)
 - [hyperledger-labs/bdls](https://github.com/hyperledger-labs/bdls) - BDLS (6 months ago)
-- [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (11 months ago)
+- [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (1 year ago)
 - [TheRealSibasishBehera/Coel](https://github.com/TheRealSibasishBehera/Coel) -  (1 year ago)
 - [Falytics-Corp/OneIndiaClub-Master-Branch](https://github.com/Falytics-Corp/OneIndiaClub-Master-Branch) - OneIndiaClub-Master-Branch (1 year ago)
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) -   A distributed, fast open-source graph database featuring horizontal scalability and high availability (1 year ago)
@@ -47,7 +47,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (2 months ago)
-- [Subhasish-Behera/Unclaimed](https://github.com/Subhasish-Behera/Unclaimed) -  (3 months ago)
+- [Subhasish-Behera/Unclaimed](https://github.com/Subhasish-Behera/Unclaimed) -  (4 months ago)
 - [Subhasish-Behera/tt_assignment](https://github.com/Subhasish-Behera/tt_assignment) -  (5 months ago)
 - [Subhasish-Behera/GAMES](https://github.com/Subhasish-Behera/GAMES) -  (11 months ago)
 
