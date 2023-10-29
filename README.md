@@ -28,6 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (today)
 - [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines in Spark (5 days ago)
 - [anthdm/vscode-config](https://github.com/anthdm/vscode-config) - My vscode configuration (1 week ago)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (1 month ago)
@@ -42,7 +43,6 @@
 - [Falytics-Corp/OneIndiaClub-Master-Branch](https://github.com/Falytics-Corp/OneIndiaClub-Master-Branch) - OneIndiaClub-Master-Branch (1 year ago)
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) -   A distributed, fast open-source graph database featuring horizontal scalability and high availability (1 year ago)
 - [zairza-cetb/Heart-to-Heart-Frontend](https://github.com/zairza-cetb/Heart-to-Heart-Frontend) -  (1 year ago)
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 year ago)
 
 #### 👷 Check out what I'm currently working on
 
