@@ -16,7 +16,7 @@
 - [upload: Enable File Upload for users.](https://github.com/zulip/zulip-terminal/pull/1414) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (4 months ago)
 - [Refactor: change pm_with to pm-with](https://github.com/zulip/zulip-terminal/pull/1352) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (8 months ago)
 - [Add moved label for topic/stream changes](https://github.com/zulip/zulip-terminal/pull/1331) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (8 months ago)
-- [[WIP]model/messages/api_types: alert_words mark up](https://github.com/zulip/zulip-terminal/pull/1314) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (8 months ago)
+- [[WIP]model/messages/api_types: alert_words mark up](https://github.com/zulip/zulip-terminal/pull/1314) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (9 months ago)
 - [[WIP] Notify when a message with alert word is received](https://github.com/zulip/zulip-terminal/pull/1301) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (9 months ago)
 - [[WIP] Handle typing events from multiple users in a PM narrow ](https://github.com/zulip/zulip-terminal/pull/1291) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (9 months ago)
 - [[WIP] Disable cycling while editing a PM](https://github.com/zulip/zulip-terminal/pull/1280) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (10 months ago)
@@ -29,7 +29,7 @@
 #### ⭐ Check out my recent stars
 
 - [arriqaaq/flashdb](https://github.com/arriqaaq/flashdb) - FlashDB is an embeddable, in-memory key/value database in Go (with Redis like commands and super easy to read) (2 weeks ago)
-- [JacquesCarette/Drasil](https://github.com/JacquesCarette/Drasil) - Generate all the things (focusing on research software) (2 weeks ago)
+- [JacquesCarette/Drasil](https://github.com/JacquesCarette/Drasil) - Generate all the things (focusing on research software) (3 weeks ago)
 - [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (4 weeks ago)
 - [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines in Spark (1 month ago)
 - [anthdm/vscode-config](https://github.com/anthdm/vscode-config) - My vscode configuration (1 month ago)
@@ -47,6 +47,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (3 months ago)
-- [Subhasish-Behera/Unclaimed](https://github.com/Subhasish-Behera/Unclaimed) -  (4 months ago)
+- [Subhasish-Behera/Unclaimed](https://github.com/Subhasish-Behera/Unclaimed) -  (5 months ago)
 - [Subhasish-Behera/tt_assignment](https://github.com/Subhasish-Behera/tt_assignment) -  (6 months ago)
 
