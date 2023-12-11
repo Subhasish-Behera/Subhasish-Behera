@@ -28,6 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [njord-rs/njord](https://github.com/njord-rs/njord) - A lightweight ORM library in Rust. ⛵ (today)
 - [arriqaaq/flashdb](https://github.com/arriqaaq/flashdb) - FlashDB is an embeddable, in-memory key/value database in Go (with Redis like commands and super easy to read) (4 weeks ago)
 - [JacquesCarette/Drasil](https://github.com/JacquesCarette/Drasil) - Generate all the things (focusing on research software) (1 month ago)
 - [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (1 month ago)
@@ -42,7 +43,6 @@
 - [hyperledger-labs/bdls](https://github.com/hyperledger-labs/bdls) - BDLS (8 months ago)
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (1 year ago)
 - [TheRealSibasishBehera/Coel](https://github.com/TheRealSibasishBehera/Coel) -  (1 year ago)
-- [Falytics-Corp/OneIndiaClub-Master-Branch](https://github.com/Falytics-Corp/OneIndiaClub-Master-Branch) - OneIndiaClub-Master-Branch (1 year ago)
 
 #### 👷 Check out what I'm currently working on
 
