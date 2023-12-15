@@ -28,6 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [sr-gi/bolt13](https://github.com/sr-gi/bolt13) -  (today)
 - [njord-rs/njord](https://github.com/njord-rs/njord) - A lightweight and extensible ORM framework for Rust.⛵ (4 days ago)
 - [arriqaaq/flashdb](https://github.com/arriqaaq/flashdb) - FlashDB is an embeddable, in-memory key/value database in Go (with Redis like commands and super easy to read) (1 month ago)
 - [JacquesCarette/Drasil](https://github.com/JacquesCarette/Drasil) - Generate all the things (focusing on research software) (1 month ago)
@@ -42,7 +43,6 @@
 - [BDLS-bft/BDLSChain](https://github.com/BDLS-bft/BDLSChain) - Go language implementation of a blockchain based on the BDLS BFT protocol. The implementation was adapted from Ethereum implementation (8 months ago)
 - [hyperledger-labs/bdls](https://github.com/hyperledger-labs/bdls) - BDLS (8 months ago)
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (1 year ago)
-- [TheRealSibasishBehera/Coel](https://github.com/TheRealSibasishBehera/Coel) -  (1 year ago)
 
 #### 👷 Check out what I'm currently working on
 
