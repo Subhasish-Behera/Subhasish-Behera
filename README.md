@@ -21,15 +21,15 @@
 - [[WIP] Handle typing events from multiple users in a PM narrow ](https://github.com/zulip/zulip-terminal/pull/1291) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (10 months ago)
 - [[WIP] Disable cycling while editing a PM](https://github.com/zulip/zulip-terminal/pull/1280) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (11 months ago)
 - [Maintain position in topic list when toggling topic list](https://github.com/zulip/zulip-terminal/pull/1277) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (11 months ago)
-- [[receiver/kafkareceiver] support zipkin_json(v1)](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/17186) on [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) (11 months ago)
+- [[receiver/kafkareceiver] support zipkin_json(v1)](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/17186) on [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) (1 year ago)
 - [Maintain position in topic list when toggling topic list (issue #617)](https://github.com/zulip/zulip-terminal/pull/1275) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (1 year ago)
 - [Fix broken formatting in Installing guide](https://github.com/knative/docs/pull/4917) on [knative/docs](https://github.com/knative/docs) (2 years ago)
 - [removed step 1 of creating service](https://github.com/knative/docs/pull/4914) on [knative/docs](https://github.com/knative/docs) (2 years ago)
 
 #### ⭐ Check out my recent stars
 
-- [sr-gi/bolt13](https://github.com/sr-gi/bolt13) -  (today)
-- [njord-rs/njord](https://github.com/njord-rs/njord) - A lightweight and extensible ORM framework for Rust.⛵ (4 days ago)
+- [sr-gi/bolt13](https://github.com/sr-gi/bolt13) -  (1 day ago)
+- [njord-rs/njord](https://github.com/njord-rs/njord) - A lightweight and extensible ORM framework for Rust.⛵ (5 days ago)
 - [arriqaaq/flashdb](https://github.com/arriqaaq/flashdb) - FlashDB is an embeddable, in-memory key/value database in Go (with Redis like commands and super easy to read) (1 month ago)
 - [JacquesCarette/Drasil](https://github.com/JacquesCarette/Drasil) - Generate all the things (focusing on research software) (1 month ago)
 - [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (1 month ago)
