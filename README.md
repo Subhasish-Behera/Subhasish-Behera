@@ -28,6 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (today)
 - [sr-gi/bolt13](https://github.com/sr-gi/bolt13) -  (2 weeks ago)
 - [njord-rs/njord](https://github.com/njord-rs/njord) - A lightweight and extensible ORM framework for Rust.⛵ (3 weeks ago)
 - [arriqaaq/flashdb](https://github.com/arriqaaq/flashdb) - FlashDB is an embeddable, in-memory key/value database in Go (with Redis like commands and super easy to read) (1 month ago)
@@ -42,7 +43,6 @@
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (7 months ago)
 - [BDLS-bft/BDLSChain](https://github.com/BDLS-bft/BDLSChain) - Go language implementation of a blockchain based on the BDLS BFT protocol. The implementation was adapted from Ethereum implementation (8 months ago)
 - [hyperledger-labs/bdls](https://github.com/hyperledger-labs/bdls) - BDLS (9 months ago)
-- [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (1 year ago)
 
 #### 👷 Check out what I'm currently working on
 
