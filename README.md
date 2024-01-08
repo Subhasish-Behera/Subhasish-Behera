@@ -28,9 +28,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (3 days ago)
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (4 days ago)
 - [sr-gi/bolt13](https://github.com/sr-gi/bolt13) -  (3 weeks ago)
-- [njord-rs/njord](https://github.com/njord-rs/njord) - A lightweight and extensible ORM framework for Rust.⛵ (3 weeks ago)
+- [njord-rs/njord](https://github.com/njord-rs/njord) - A lightweight and extensible ORM framework for Rust.⛵ (4 weeks ago)
 - [arriqaaq/flashdb](https://github.com/arriqaaq/flashdb) - FlashDB is an embeddable, in-memory key/value database in Go (with Redis like commands and super easy to read) (1 month ago)
 - [JacquesCarette/Drasil](https://github.com/JacquesCarette/Drasil) - Generate all the things (focusing on research software) (2 months ago)
 - [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (2 months ago)
