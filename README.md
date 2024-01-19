@@ -26,6 +26,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled. (today)
 - [ryogrid/SamehadaDB](https://github.com/ryogrid/SamehadaDB) - A Simple Relational Database Implemented in Golang (1 week ago)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (2 weeks ago)
 - [sr-gi/bolt13](https://github.com/sr-gi/bolt13) -  (1 month ago)
@@ -40,7 +41,6 @@
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (5 months ago)
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (7 months ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (7 months ago)
-- [BDLS-bft/BDLSChain](https://github.com/BDLS-bft/BDLSChain) - Go language implementation of a blockchain based on the BDLS BFT protocol. The implementation was adapted from Ethereum implementation (9 months ago)
 
 #### 👷 Check out what I'm currently working on
 
