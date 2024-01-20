@@ -10,7 +10,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Implement muted users](https://github.com/zulip/zulip-terminal/pull/1425) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (4 months ago)
+- [Implement muted users](https://github.com/zulip/zulip-terminal/pull/1425) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (5 months ago)
 - [upload: Enable File Upload for users.](https://github.com/zulip/zulip-terminal/pull/1414) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (6 months ago)
 - [Refactor: change pm_with to pm-with](https://github.com/zulip/zulip-terminal/pull/1352) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (10 months ago)
 - [Add moved label for topic/stream changes](https://github.com/zulip/zulip-terminal/pull/1331) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (10 months ago)
@@ -26,7 +26,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled. (today)
+- [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled. (1 day ago)
 - [ryogrid/SamehadaDB](https://github.com/ryogrid/SamehadaDB) - A Simple Relational Database Implemented in Golang (1 week ago)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (2 weeks ago)
 - [sr-gi/bolt13](https://github.com/sr-gi/bolt13) -  (1 month ago)
