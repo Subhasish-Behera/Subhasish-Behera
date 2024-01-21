@@ -26,7 +26,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled. (1 day ago)
+- [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled. (2 days ago)
 - [ryogrid/SamehadaDB](https://github.com/ryogrid/SamehadaDB) - A Simple Relational Database Implemented in Golang (1 week ago)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (2 weeks ago)
 - [sr-gi/bolt13](https://github.com/sr-gi/bolt13) -  (1 month ago)
