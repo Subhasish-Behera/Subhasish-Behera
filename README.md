@@ -26,6 +26,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [draveness/go-internal](https://github.com/draveness/go-internal) - 《Go 语言设计与实现》示例代码 (today)
 - [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled. (1 week ago)
 - [ryogrid/SamehadaDB](https://github.com/ryogrid/SamehadaDB) - A Simple Relational Database Implemented in Golang (2 weeks ago)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (3 weeks ago)
@@ -40,7 +41,6 @@
 - [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记 (5 months ago)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (6 months ago)
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (7 months ago)
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (7 months ago)
 
 #### 👷 Check out what I'm currently working on
 
