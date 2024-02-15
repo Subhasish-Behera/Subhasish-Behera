@@ -26,6 +26,8 @@
 
 #### ⭐ Check out my recent stars
 
+- [kubeedge/killercoda-scenarios](https://github.com/kubeedge/killercoda-scenarios) - Katacoda Interactive Scenarios (today)
+- [kubeedge/examples](https://github.com/kubeedge/examples) - Examples for KubeEdge (today)
 - [shivanshu1333/gRPC-examples](https://github.com/shivanshu1333/gRPC-examples) - this repository containes basic to advance exmples of gRPC, covering Unary, Server Streaming, Client Streaming, Bi Directional Streaming (1 day ago)
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification (2 weeks ago)
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects. (2 weeks ago)
@@ -39,8 +41,6 @@
 - [JacquesCarette/Drasil](https://github.com/JacquesCarette/Drasil) - Generate all the things (focusing on research software) (3 months ago)
 - [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (3 months ago)
 - [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines in Spark (3 months ago)
-- [anthdm/vscode-config](https://github.com/anthdm/vscode-config) - My vscode configuration (3 months ago)
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (5 months ago)
 
 #### 👷 Check out what I'm currently working on
 
