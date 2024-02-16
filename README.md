@@ -33,7 +33,7 @@
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects. (2 weeks ago)
 - [draveness/go-internal](https://github.com/draveness/go-internal) - 《Go 语言设计与实现》示例代码 (2 weeks ago)
 - [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled. (4 weeks ago)
-- [ryogrid/SamehadaDB](https://github.com/ryogrid/SamehadaDB) - A Simple Relational Database Implemented in Golang (1 month ago)
+- [ryogrid/SamehadaDB](https://github.com/ryogrid/SamehadaDB) - Simple Relational Database System Implemented in Golang (1 month ago)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (1 month ago)
 - [sr-gi/bolt13](https://github.com/sr-gi/bolt13) -  (2 months ago)
 - [njord-rs/njord](https://github.com/njord-rs/njord) - A lightweight and extensible ORM framework for Rust.⛵ (2 months ago)
