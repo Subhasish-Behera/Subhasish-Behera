@@ -27,6 +27,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres (today)
 - [kubeedge/killercoda-scenarios](https://github.com/kubeedge/killercoda-scenarios) - Katacoda Interactive Scenarios (1 week ago)
 - [kubeedge/examples](https://github.com/kubeedge/examples) - Examples for KubeEdge (1 week ago)
 - [shivanshu1333/gRPC-examples](https://github.com/shivanshu1333/gRPC-examples) - this repository containes basic to advance exmples of gRPC, covering Unary, Server Streaming, Client Streaming, Bi Directional Streaming (1 week ago)
@@ -41,7 +42,6 @@
 - [arriqaaq/flashdb](https://github.com/arriqaaq/flashdb) - FlashDB is an embeddable, in-memory key/value database in Go (with Redis like commands and super easy to read) (3 months ago)
 - [JacquesCarette/Drasil](https://github.com/JacquesCarette/Drasil) - Generate all the things (focusing on research software) (3 months ago)
 - [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (3 months ago)
-- [Serra-Technologies/serra](https://github.com/Serra-Technologies/serra) - Build elegant data pipelines (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
