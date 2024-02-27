@@ -27,6 +27,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [66RING/learn-vgpu-the-hard-way](https://github.com/66RING/learn-vgpu-the-hard-way) - qemu, cuda, virtio and kernel driver etc, none of which I understand, I just in awe. (today)
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres (4 days ago)
 - [kubeedge/killercoda-scenarios](https://github.com/kubeedge/killercoda-scenarios) - Katacoda Interactive Scenarios (1 week ago)
 - [kubeedge/examples](https://github.com/kubeedge/examples) - Examples for KubeEdge (1 week ago)
@@ -41,7 +42,6 @@
 - [njord-rs/njord](https://github.com/njord-rs/njord) - A lightweight and extensible ORM framework for Rust.⛵ (2 months ago)
 - [arriqaaq/flashdb](https://github.com/arriqaaq/flashdb) - FlashDB is an embeddable, in-memory key/value database in Go (with Redis like commands and super easy to read) (3 months ago)
 - [JacquesCarette/Drasil](https://github.com/JacquesCarette/Drasil) - Generate all the things (focusing on research software) (3 months ago)
-- [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
