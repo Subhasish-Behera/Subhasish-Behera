@@ -27,6 +27,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database. (today)
 - [talent-plan/tinykv](https://github.com/talent-plan/tinykv) - A course to build distributed key-value service based on TiKV model (2 days ago)
 - [66RING/learn-vgpu-the-hard-way](https://github.com/66RING/learn-vgpu-the-hard-way) - qemu, cuda, virtio and kernel driver etc, none of which I understand, I just in awe. (1 week ago)
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres (1 week ago)
@@ -41,7 +42,6 @@
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (2 months ago)
 - [sr-gi/bolt13](https://github.com/sr-gi/bolt13) -  (2 months ago)
 - [njord-rs/njord](https://github.com/njord-rs/njord) - A lightweight and extensible ORM framework for Rust.⛵ (2 months ago)
-- [arriqaaq/flashdb](https://github.com/arriqaaq/flashdb) - FlashDB is an embeddable, in-memory key/value database in Go (with Redis like commands and super easy to read) (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
