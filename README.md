@@ -27,6 +27,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang) (today)
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database. (3 days ago)
 - [talent-plan/tinykv](https://github.com/talent-plan/tinykv) - A course to build distributed key-value service based on TiKV model (5 days ago)
 - [66RING/learn-vgpu-the-hard-way](https://github.com/66RING/learn-vgpu-the-hard-way) - qemu, cuda, virtio and kernel driver etc, none of which I understand, I just in awe. (1 week ago)
@@ -41,7 +42,6 @@
 - [ryogrid/SamehadaDB](https://github.com/ryogrid/SamehadaDB) - Simple Relational Database System Implemented in Golang (1 month ago)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (2 months ago)
 - [sr-gi/bolt13](https://github.com/sr-gi/bolt13) -  (2 months ago)
-- [njord-rs/njord](https://github.com/njord-rs/njord) - A lightweight and extensible ORM framework for Rust.⛵ (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
