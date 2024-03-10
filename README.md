@@ -27,6 +27,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [laysakura/fst-rs](https://github.com/laysakura/fst-rs) - FST (Fast Succinct Trie) implementation in Rust (today)
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang) (2 days ago)
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database. (5 days ago)
 - [talent-plan/tinykv](https://github.com/talent-plan/tinykv) - A course to build distributed key-value service based on TiKV model (1 week ago)
@@ -41,7 +42,6 @@
 - [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled. (1 month ago)
 - [ryogrid/SamehadaDB](https://github.com/ryogrid/SamehadaDB) - Simple Relational Database System Implemented in Golang (2 months ago)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (2 months ago)
-- [sr-gi/bolt13](https://github.com/sr-gi/bolt13) -  (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
