@@ -37,7 +37,7 @@
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres (4 weeks ago)
 - [kubeedge/killercoda-scenarios](https://github.com/kubeedge/killercoda-scenarios) - Katacoda Interactive Scenarios (1 month ago)
 - [kubeedge/examples](https://github.com/kubeedge/examples) - Examples for KubeEdge (1 month ago)
-- [xrc82/gRPC-examples](https://github.com/xrc82/gRPC-examples) - this repository containes basic to advance exmples of gRPC, covering Unary, Server Streaming, Client Streaming, Bi Directional Streaming (1 month ago)
+- [shiva1333/gRPC-examples](https://github.com/shiva1333/gRPC-examples) - this repository containes basic to advance exmples of gRPC, covering Unary, Server Streaming, Client Streaming, Bi Directional Streaming (1 month ago)
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification (1 month ago)
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects. (1 month ago)
 - [draveness/go-internal](https://github.com/draveness/go-internal) - 《Go 语言设计与实现》示例代码 (1 month ago)
