@@ -27,6 +27,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [obscuren/tinyvm](https://github.com/obscuren/tinyvm) - Minimalistic Virtual Machine (today)
 - [pisimulation/epaxos](https://github.com/pisimulation/epaxos) - A Pure Rust Implementation of Egalitarian Paxos (2 weeks ago)
 - [laysakura/fst-rs](https://github.com/laysakura/fst-rs) - FST (Fast Succinct Trie) implementation in Rust (2 weeks ago)
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang) (3 weeks ago)
@@ -41,7 +42,6 @@
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects. (2 months ago)
 - [draveness/go-internal](https://github.com/draveness/go-internal) - 《Go 语言设计与实现》示例代码 (2 months ago)
 - [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled. (2 months ago)
-- [ryogrid/SamehadaDB](https://github.com/ryogrid/SamehadaDB) - Simple Relational Database System Implemented in Golang (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
