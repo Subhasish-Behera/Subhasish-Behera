@@ -27,7 +27,6 @@
 
 #### ⭐ Check out my recent stars
 
-- [yetanotherco/aligned_layer](https://github.com/yetanotherco/aligned_layer) - Aligned Layer is a verification layer for zero-knowledge proofs using Eigen Layer. Our mission is to extend Ethereum&#39;s zk capabilities. (today)
 - [obscuren/tinyvm](https://github.com/obscuren/tinyvm) - Minimalistic Virtual Machine (1 day ago)
 - [pisimulation/epaxos](https://github.com/pisimulation/epaxos) - A Pure Rust Implementation of Egalitarian Paxos (2 weeks ago)
 - [laysakura/fst-rs](https://github.com/laysakura/fst-rs) - FST (Fast Succinct Trie) implementation in Rust (3 weeks ago)
@@ -42,6 +41,7 @@
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification (2 months ago)
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects. (2 months ago)
 - [draveness/go-internal](https://github.com/draveness/go-internal) - 《Go 语言设计与实现》示例代码 (2 months ago)
+- [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled. (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
