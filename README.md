@@ -27,7 +27,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [obscuren/tinyvm](https://github.com/obscuren/tinyvm) - Minimalistic Virtual Machine (1 day ago)
+- [obscuren/tinyvm](https://github.com/obscuren/tinyvm) - Minimalistic Virtual Machine (2 days ago)
 - [pisimulation/epaxos](https://github.com/pisimulation/epaxos) - A Pure Rust Implementation of Egalitarian Paxos (2 weeks ago)
 - [laysakura/fst-rs](https://github.com/laysakura/fst-rs) - FST (Fast Succinct Trie) implementation in Rust (3 weeks ago)
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang) (3 weeks ago)
@@ -49,5 +49,5 @@
 - [Subhasish-Behera/GKafka_HA_eventing_system](https://github.com/Subhasish-Behera/GKafka_HA_eventing_system) -  (1 month ago)
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (7 months ago)
 - [Subhasish-Behera/Unclaimed](https://github.com/Subhasish-Behera/Unclaimed) -  (9 months ago)
-- [Subhasish-Behera/tt_assignment](https://github.com/Subhasish-Behera/tt_assignment) -  (10 months ago)
+- [Subhasish-Behera/tt_assignment](https://github.com/Subhasish-Behera/tt_assignment) -  (11 months ago)
 
