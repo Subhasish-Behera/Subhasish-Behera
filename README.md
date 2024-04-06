@@ -27,8 +27,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [obscuren/tinyvm](https://github.com/obscuren/tinyvm) - Minimalistic Virtual Machine (6 days ago)
-- [pisimulation/epaxos](https://github.com/pisimulation/epaxos) - A Pure Rust Implementation of Egalitarian Paxos (2 weeks ago)
+- [obscuren/tinyvm](https://github.com/obscuren/tinyvm) - Minimalistic Virtual Machine (1 week ago)
+- [pisimulation/epaxos](https://github.com/pisimulation/epaxos) - A Pure Rust Implementation of Egalitarian Paxos (3 weeks ago)
 - [laysakura/fst-rs](https://github.com/laysakura/fst-rs) - FST (Fast Succinct Trie) implementation in Rust (3 weeks ago)
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang) (4 weeks ago)
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database. (1 month ago)
