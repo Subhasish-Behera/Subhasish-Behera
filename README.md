@@ -28,6 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl (today)
 - [aga7hokakological/toy-evm-rs](https://github.com/aga7hokakological/toy-evm-rs) - small naive EVM implementation in rust (5 days ago)
 - [a16z/jolt](https://github.com/a16z/jolt) - The simplest and most extensible ZK VM. Fast and fully open source from a16z crypto and friends. ⚡ 💌 (1 week ago)
 - [obscuren/tinyvm](https://github.com/obscuren/tinyvm) - Minimalistic Virtual Machine (2 weeks ago)
@@ -42,7 +43,6 @@
 - [kubeedge/examples](https://github.com/kubeedge/examples) - Examples for KubeEdge (2 months ago)
 - [shiva1333/gRPC-examples](https://github.com/shiva1333/gRPC-examples) - this repository containes basic to advance exmples of gRPC, covering Unary, Server Streaming, Client Streaming, Bi Directional Streaming (2 months ago)
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification (2 months ago)
-- [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects. (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
