@@ -28,8 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [Consensys/gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license (1 day ago)
-- [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl (3 days ago)
+- [Consensys/gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license (2 days ago)
+- [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl (4 days ago)
 - [aga7hokakological/toy-evm-rs](https://github.com/aga7hokakological/toy-evm-rs) - small naive EVM implementation in rust (1 week ago)
 - [a16z/jolt](https://github.com/a16z/jolt) - The simplest and most extensible ZK VM. Fast and fully open source from a16z crypto and friends. ⚡ (1 week ago)
 - [obscuren/tinyvm](https://github.com/obscuren/tinyvm) - Minimalistic Virtual Machine (3 weeks ago)
