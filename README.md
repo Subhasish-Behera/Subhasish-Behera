@@ -28,6 +28,8 @@
 
 #### ⭐ Check out my recent stars
 
+- [NethermindEth/cairo-vm-go](https://github.com/NethermindEth/cairo-vm-go) - A virtual machine for Cairo written in Go (today)
+- [Layr-Labs/eigenlayer-middleware](https://github.com/Layr-Labs/eigenlayer-middleware) -  (today)
 - [Layr-Labs/eigensdk-go](https://github.com/Layr-Labs/eigensdk-go) - Go SDK for building AVSs on Eigenlayer (today)
 - [Consensys/gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license (2 days ago)
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl (4 days ago)
@@ -41,8 +43,6 @@
 - [talent-plan/tinykv](https://github.com/talent-plan/tinykv) - A course to build distributed key-value service based on TiKV model (1 month ago)
 - [66RING/learn-vgpu-the-hard-way](https://github.com/66RING/learn-vgpu-the-hard-way) - qemu, cuda, virtio and kernel driver etc, none of which I understand, I just in awe. (1 month ago)
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres (1 month ago)
-- [kubeedge/killercoda-scenarios](https://github.com/kubeedge/killercoda-scenarios) - Katacoda Interactive Scenarios (2 months ago)
-- [kubeedge/examples](https://github.com/kubeedge/examples) - Examples for KubeEdge (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
