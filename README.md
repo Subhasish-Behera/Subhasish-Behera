@@ -28,11 +28,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [NethermindEth/cairo-vm-go](https://github.com/NethermindEth/cairo-vm-go) - A virtual machine for Cairo written in Go (today)
-- [Layr-Labs/eigenlayer-middleware](https://github.com/Layr-Labs/eigenlayer-middleware) -  (today)
-- [Layr-Labs/eigensdk-go](https://github.com/Layr-Labs/eigensdk-go) - Go SDK for building AVSs on Eigenlayer (today)
-- [Consensys/gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license (2 days ago)
-- [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl (4 days ago)
+- [NethermindEth/cairo-vm-go](https://github.com/NethermindEth/cairo-vm-go) - A virtual machine for Cairo written in Go (1 day ago)
+- [Layr-Labs/eigenlayer-middleware](https://github.com/Layr-Labs/eigenlayer-middleware) -  (1 day ago)
+- [Layr-Labs/eigensdk-go](https://github.com/Layr-Labs/eigensdk-go) - Go SDK for building AVSs on Eigenlayer (1 day ago)
+- [Consensys/gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license (3 days ago)
+- [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl (5 days ago)
 - [aga7hokakological/toy-evm-rs](https://github.com/aga7hokakological/toy-evm-rs) - small naive EVM implementation in rust (1 week ago)
 - [a16z/jolt](https://github.com/a16z/jolt) - The simplest and most extensible ZK VM. Fast and fully open source from a16z crypto and friends. ⚡ (1 week ago)
 - [obscuren/tinyvm](https://github.com/obscuren/tinyvm) - Minimalistic Virtual Machine (3 weeks ago)
