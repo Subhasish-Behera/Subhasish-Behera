@@ -28,13 +28,13 @@
 
 #### ⭐ Check out my recent stars
 
-- [NethermindEth/cairo-vm-go](https://github.com/NethermindEth/cairo-vm-go) - A virtual machine for Cairo written in Go (2 days ago)
-- [Layr-Labs/eigenlayer-middleware](https://github.com/Layr-Labs/eigenlayer-middleware) -  (2 days ago)
-- [Layr-Labs/eigensdk-go](https://github.com/Layr-Labs/eigensdk-go) - Go SDK for building AVSs on Eigenlayer (2 days ago)
-- [Consensys/gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license (4 days ago)
-- [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl (6 days ago)
+- [NethermindEth/cairo-vm-go](https://github.com/NethermindEth/cairo-vm-go) - A virtual machine for Cairo written in Go (3 days ago)
+- [Layr-Labs/eigenlayer-middleware](https://github.com/Layr-Labs/eigenlayer-middleware) -  (3 days ago)
+- [Layr-Labs/eigensdk-go](https://github.com/Layr-Labs/eigensdk-go) - Go SDK for building AVSs on Eigenlayer (3 days ago)
+- [Consensys/gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license (5 days ago)
+- [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl (1 week ago)
 - [aga7hokakological/toy-evm-rs](https://github.com/aga7hokakological/toy-evm-rs) - small naive EVM implementation in rust (1 week ago)
-- [a16z/jolt](https://github.com/a16z/jolt) - The simplest and most extensible ZK VM. Fast and fully open source from a16z crypto and friends. ⚡ (1 week ago)
+- [a16z/jolt](https://github.com/a16z/jolt) - The simplest and most extensible ZK VM. Fast and fully open source from a16z crypto and friends. ⚡ (2 weeks ago)
 - [obscuren/tinyvm](https://github.com/obscuren/tinyvm) - Minimalistic Virtual Machine (3 weeks ago)
 - [pisimulation/epaxos](https://github.com/pisimulation/epaxos) - A Pure Rust Implementation of Egalitarian Paxos (1 month ago)
 - [laysakura/fst-rs](https://github.com/laysakura/fst-rs) - FST (Fast Succinct Trie) implementation in Rust (1 month ago)
