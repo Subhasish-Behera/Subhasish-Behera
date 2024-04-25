@@ -28,6 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [intel/intel-resource-drivers-for-kubernetes](https://github.com/intel/intel-resource-drivers-for-kubernetes) -  (today)
 - [volcano-sh/devices](https://github.com/volcano-sh/devices) - Device plugins for Volcano, e.g. GPU (1 day ago)
 - [NethermindEth/cairo-vm-go](https://github.com/NethermindEth/cairo-vm-go) - A virtual machine for Cairo written in Go (4 days ago)
 - [Layr-Labs/eigenlayer-middleware](https://github.com/Layr-Labs/eigenlayer-middleware) -  (4 days ago)
@@ -42,7 +43,6 @@
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang) (1 month ago)
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database. (1 month ago)
 - [talent-plan/tinykv](https://github.com/talent-plan/tinykv) - A course to build distributed key-value service based on TiKV model (1 month ago)
-- [66RING/learn-vgpu-the-hard-way](https://github.com/66RING/learn-vgpu-the-hard-way) - qemu, cuda, virtio and kernel driver etc, none of which I understand, I just in awe. (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
