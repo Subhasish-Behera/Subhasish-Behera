@@ -28,6 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [anon-aadhaar/anon-aadhaar](https://github.com/anon-aadhaar/anon-aadhaar) - Anon Aadhaar is a zero-knowledge protocol that allows Aadhaar ID owners to prove their identity in a privacy preserving way. (today)
 - [privacy-scaling-explorations/core-program](https://github.com/privacy-scaling-explorations/core-program) -  (today)
 - [intel/intel-resource-drivers-for-kubernetes](https://github.com/intel/intel-resource-drivers-for-kubernetes) -  (6 days ago)
 - [volcano-sh/devices](https://github.com/volcano-sh/devices) - Device plugins for Volcano, e.g. GPU (1 week ago)
@@ -42,7 +43,6 @@
 - [pisimulation/epaxos](https://github.com/pisimulation/epaxos) - A Pure Rust Implementation of Egalitarian Paxos (1 month ago)
 - [laysakura/fst-rs](https://github.com/laysakura/fst-rs) - FST (Fast Succinct Trie) implementation in Rust (1 month ago)
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang) (1 month ago)
-- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database. (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
