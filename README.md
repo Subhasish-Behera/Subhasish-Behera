@@ -28,18 +28,18 @@
 
 #### ⭐ Check out my recent stars
 
-- [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (today)
+- [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (1 day ago)
 - [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for &#34;How to Learn Mathematics Fast&#34; By Siraj Raval on Youtube (1 week ago)
 - [anon-aadhaar/anon-aadhaar](https://github.com/anon-aadhaar/anon-aadhaar) - Anon Aadhaar is a zero-knowledge protocol that allows Aadhaar ID owners to prove their identity in a privacy preserving way. (1 week ago)
 - [privacy-scaling-explorations/core-program](https://github.com/privacy-scaling-explorations/core-program) -  (1 week ago)
 - [intel/intel-resource-drivers-for-kubernetes](https://github.com/intel/intel-resource-drivers-for-kubernetes) -  (2 weeks ago)
 - [volcano-sh/devices](https://github.com/volcano-sh/devices) - Device plugins for Volcano, e.g. GPU (2 weeks ago)
-- [NethermindEth/cairo-vm-go](https://github.com/NethermindEth/cairo-vm-go) - A virtual machine for Cairo written in Go (2 weeks ago)
-- [Layr-Labs/eigenlayer-middleware](https://github.com/Layr-Labs/eigenlayer-middleware) -  (2 weeks ago)
-- [Layr-Labs/eigensdk-go](https://github.com/Layr-Labs/eigensdk-go) - Go SDK for building AVSs on Eigenlayer (2 weeks ago)
+- [NethermindEth/cairo-vm-go](https://github.com/NethermindEth/cairo-vm-go) - A virtual machine for Cairo written in Go (3 weeks ago)
+- [Layr-Labs/eigenlayer-middleware](https://github.com/Layr-Labs/eigenlayer-middleware) -  (3 weeks ago)
+- [Layr-Labs/eigensdk-go](https://github.com/Layr-Labs/eigensdk-go) - Go SDK for building AVSs on Eigenlayer (3 weeks ago)
 - [Consensys/gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license (3 weeks ago)
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl (3 weeks ago)
-- [aga7hokakological/toy-evm-rs](https://github.com/aga7hokakological/toy-evm-rs) - small naive EVM implementation in rust (4 weeks ago)
+- [aga7hokakological/toy-evm-rs](https://github.com/aga7hokakological/toy-evm-rs) - small naive EVM implementation in rust (1 month ago)
 - [a16z/jolt](https://github.com/a16z/jolt) - The simplest and most extensible ZK VM. Fast and fully open source from a16z crypto and friends. ⚡ (1 month ago)
 - [obscuren/tinyvm](https://github.com/obscuren/tinyvm) - Minimalistic Virtual Machine (1 month ago)
 - [pisimulation/epaxos](https://github.com/pisimulation/epaxos) - A Pure Rust Implementation of Egalitarian Paxos (1 month ago)
