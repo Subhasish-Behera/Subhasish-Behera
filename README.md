@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (2 days ago)
+- [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (3 days ago)
 - [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for &#34;How to Learn Mathematics Fast&#34; By Siraj Raval on Youtube (1 week ago)
 - [anon-aadhaar/anon-aadhaar](https://github.com/anon-aadhaar/anon-aadhaar) - Anon Aadhaar is a zero-knowledge protocol that allows Aadhaar ID owners to prove their identity in a privacy preserving way. (1 week ago)
 - [privacy-scaling-explorations/core-program](https://github.com/privacy-scaling-explorations/core-program) -  (1 week ago)
