@@ -11,7 +11,7 @@
 #### 🔨 Check out my recent pull requests
 
 - [refactor: change dynamicResources struct to DynamicResources](https://github.com/kubernetes/kubernetes/pull/124269) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
-- [test: add tests for package resourcequota plugin.](https://github.com/volcano-sh/volcano/pull/3320) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (2 months ago)
+- [test: add tests for package resourcequota plugin.](https://github.com/volcano-sh/volcano/pull/3320) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (3 months ago)
 - [Implement muted users](https://github.com/zulip/zulip-terminal/pull/1425) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (8 months ago)
 - [upload: Enable File Upload for users.](https://github.com/zulip/zulip-terminal/pull/1414) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (10 months ago)
 - [Refactor: change pm_with to pm-with](https://github.com/zulip/zulip-terminal/pull/1352) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (1 year ago)
@@ -28,7 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (5 days ago)
+- [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (6 days ago)
 - [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for &#34;How to Learn Mathematics Fast&#34; By Siraj Raval on Youtube (2 weeks ago)
 - [anon-aadhaar/anon-aadhaar](https://github.com/anon-aadhaar/anon-aadhaar) - Anon Aadhaar is a zero-knowledge protocol that allows Aadhaar ID owners to prove their identity in a privacy preserving way. (2 weeks ago)
 - [privacy-scaling-explorations/core-program](https://github.com/privacy-scaling-explorations/core-program) -  (2 weeks ago)
@@ -37,8 +37,8 @@
 - [NethermindEth/cairo-vm-go](https://github.com/NethermindEth/cairo-vm-go) - A virtual machine for Cairo written in Go (3 weeks ago)
 - [Layr-Labs/eigenlayer-middleware](https://github.com/Layr-Labs/eigenlayer-middleware) -  (3 weeks ago)
 - [Layr-Labs/eigensdk-go](https://github.com/Layr-Labs/eigensdk-go) - Go SDK for building AVSs on Eigenlayer (3 weeks ago)
-- [Consensys/gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license (3 weeks ago)
-- [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl (4 weeks ago)
+- [Consensys/gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license (4 weeks ago)
+- [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl (1 month ago)
 - [aga7hokakological/toy-evm-rs](https://github.com/aga7hokakological/toy-evm-rs) - small naive EVM implementation in rust (1 month ago)
 - [a16z/jolt](https://github.com/a16z/jolt) - The simplest and most extensible ZK VM. Fast and fully open source from a16z crypto and friends. ⚡ (1 month ago)
 - [obscuren/tinyvm](https://github.com/obscuren/tinyvm) - Minimalistic Virtual Machine (1 month ago)
