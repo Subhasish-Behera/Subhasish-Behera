@@ -28,6 +28,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [lurk-lab/solidity-verifier](https://github.com/lurk-lab/solidity-verifier) - Solidity implementation of Nova proving system verifier (today)
 - [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (6 days ago)
 - [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for &#34;How to Learn Mathematics Fast&#34; By Siraj Raval on Youtube (2 weeks ago)
 - [anon-aadhaar/anon-aadhaar](https://github.com/anon-aadhaar/anon-aadhaar) - Anon Aadhaar is a zero-knowledge protocol that allows Aadhaar ID owners to prove their identity in a privacy preserving way. (2 weeks ago)
@@ -42,7 +43,6 @@
 - [aga7hokakological/toy-evm-rs](https://github.com/aga7hokakological/toy-evm-rs) - small naive EVM implementation in rust (1 month ago)
 - [a16z/jolt](https://github.com/a16z/jolt) - The simplest and most extensible ZK VM. Fast and fully open source from a16z crypto and friends. ⚡ (1 month ago)
 - [obscuren/tinyvm](https://github.com/obscuren/tinyvm) - Minimalistic Virtual Machine (1 month ago)
-- [pisimulation/epaxos](https://github.com/pisimulation/epaxos) - A Pure Rust Implementation of Egalitarian Paxos (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
