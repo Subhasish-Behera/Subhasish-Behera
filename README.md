@@ -28,14 +28,14 @@
 
 #### ⭐ Check out my recent stars
 
-- [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (5 days ago)
-- [lurk-lab/solidity-verifier](https://github.com/lurk-lab/solidity-verifier) - Solidity implementation of Nova proving system verifier (6 days ago)
+- [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (6 days ago)
+- [lurk-lab/solidity-verifier](https://github.com/lurk-lab/solidity-verifier) - Solidity implementation of Nova proving system verifier (1 week ago)
 - [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (1 week ago)
 - [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for &#34;How to Learn Mathematics Fast&#34; By Siraj Raval on Youtube (3 weeks ago)
 - [anon-aadhaar/anon-aadhaar](https://github.com/anon-aadhaar/anon-aadhaar) - Anon Aadhaar is a zero-knowledge protocol that allows Aadhaar ID owners to prove their identity in a privacy preserving way. (3 weeks ago)
 - [privacy-scaling-explorations/core-program](https://github.com/privacy-scaling-explorations/core-program) -  (3 weeks ago)
 - [intel/intel-resource-drivers-for-kubernetes](https://github.com/intel/intel-resource-drivers-for-kubernetes) -  (4 weeks ago)
-- [volcano-sh/devices](https://github.com/volcano-sh/devices) - Device plugins for Volcano, e.g. GPU (4 weeks ago)
+- [volcano-sh/devices](https://github.com/volcano-sh/devices) - Device plugins for Volcano, e.g. GPU (1 month ago)
 - [NethermindEth/cairo-vm-go](https://github.com/NethermindEth/cairo-vm-go) - A virtual machine for Cairo written in Go (1 month ago)
 - [Layr-Labs/eigenlayer-middleware](https://github.com/Layr-Labs/eigenlayer-middleware) -  (1 month ago)
 - [Layr-Labs/eigensdk-go](https://github.com/Layr-Labs/eigensdk-go) - Go SDK for building AVSs on Eigenlayer (1 month ago)
