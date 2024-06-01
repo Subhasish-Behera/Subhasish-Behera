@@ -23,17 +23,17 @@
 - [[WIP] Disable cycling while editing a PM](https://github.com/zulip/zulip-terminal/pull/1280) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (1 year ago)
 - [Maintain position in topic list when toggling topic list](https://github.com/zulip/zulip-terminal/pull/1277) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (1 year ago)
 - [[receiver/kafkareceiver] support zipkin_json(v1)](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/17186) on [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) (1 year ago)
-- [Maintain position in topic list when toggling topic list (issue #617)](https://github.com/zulip/zulip-terminal/pull/1275) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (1 year ago)
+- [Maintain position in topic list when toggling topic list (issue #617)](https://github.com/zulip/zulip-terminal/pull/1275) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (2 years ago)
 - [Fix broken formatting in Installing guide](https://github.com/knative/docs/pull/4917) on [knative/docs](https://github.com/knative/docs) (2 years ago)
 - [removed step 1 of creating service](https://github.com/knative/docs/pull/4914) on [knative/docs](https://github.com/knative/docs) (2 years ago)
 
 #### ⭐ Check out my recent stars
 
-- [zkp-learning/Nova-Analysis](https://github.com/zkp-learning/Nova-Analysis) - For learning Nova code (5 days ago)
-- [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (1 week ago)
+- [zkp-learning/Nova-Analysis](https://github.com/zkp-learning/Nova-Analysis) - For learning Nova code (6 days ago)
+- [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (2 weeks ago)
 - [lurk-lab/solidity-verifier](https://github.com/lurk-lab/solidity-verifier) - Solidity implementation of Nova proving system verifier (2 weeks ago)
-- [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (2 weeks ago)
-- [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for &#34;How to Learn Mathematics Fast&#34; By Siraj Raval on Youtube (4 weeks ago)
+- [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (3 weeks ago)
+- [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for &#34;How to Learn Mathematics Fast&#34; By Siraj Raval on Youtube (1 month ago)
 - [anon-aadhaar/anon-aadhaar](https://github.com/anon-aadhaar/anon-aadhaar) - Anon Aadhaar is a zero-knowledge protocol that allows Aadhaar ID owners to prove their identity in a privacy preserving way. (1 month ago)
 - [privacy-scaling-explorations/core-program](https://github.com/privacy-scaling-explorations/core-program) -  (1 month ago)
 - [intel/intel-resource-drivers-for-kubernetes](https://github.com/intel/intel-resource-drivers-for-kubernetes) -  (1 month ago)
