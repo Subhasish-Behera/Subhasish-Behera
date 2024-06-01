@@ -29,6 +29,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (today)
 - [zkp-learning/Nova-Analysis](https://github.com/zkp-learning/Nova-Analysis) - For learning Nova code (6 days ago)
 - [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (2 weeks ago)
 - [lurk-lab/solidity-verifier](https://github.com/lurk-lab/solidity-verifier) - Solidity implementation of Nova proving system verifier (2 weeks ago)
@@ -43,7 +44,6 @@
 - [Layr-Labs/eigensdk-go](https://github.com/Layr-Labs/eigensdk-go) - Go SDK for building AVSs on Eigenlayer (1 month ago)
 - [Consensys/gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license (1 month ago)
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl (1 month ago)
-- [aga7hokakological/toy-evm-rs](https://github.com/aga7hokakological/toy-evm-rs) - small naive EVM implementation in rust (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
