@@ -29,8 +29,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (today)
-- [zkp-learning/Nova-Analysis](https://github.com/zkp-learning/Nova-Analysis) - For learning Nova code (6 days ago)
+- [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (1 day ago)
+- [zkp-learning/Nova-Analysis](https://github.com/zkp-learning/Nova-Analysis) - For learning Nova code (1 week ago)
 - [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (2 weeks ago)
 - [lurk-lab/solidity-verifier](https://github.com/lurk-lab/solidity-verifier) - Solidity implementation of Nova proving system verifier (2 weeks ago)
 - [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (3 weeks ago)
