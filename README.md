@@ -29,11 +29,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (6 days ago)
+- [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (1 week ago)
 - [zkp-learning/Nova-Analysis](https://github.com/zkp-learning/Nova-Analysis) - For learning Nova code (1 week ago)
-- [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (2 weeks ago)
+- [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (3 weeks ago)
 - [lurk-lab/solidity-verifier](https://github.com/lurk-lab/solidity-verifier) - Solidity implementation of Nova proving system verifier (3 weeks ago)
-- [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (3 weeks ago)
+- [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (4 weeks ago)
 - [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for &#34;How to Learn Mathematics Fast&#34; By Siraj Raval on Youtube (1 month ago)
 - [anon-aadhaar/anon-aadhaar](https://github.com/anon-aadhaar/anon-aadhaar) - Anon Aadhaar is a zero-knowledge protocol that allows Aadhaar ID owners to prove their identity in a privacy preserving way. (1 month ago)
 - [privacy-scaling-explorations/core-program](https://github.com/privacy-scaling-explorations/core-program) -  (1 month ago)
