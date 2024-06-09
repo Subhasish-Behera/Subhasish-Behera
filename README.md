@@ -29,6 +29,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [thehubbleproject/contracts](https://github.com/thehubbleproject/contracts) - Smart contracts for OPRHub protocol ✌🏻 (today)
 - [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (1 week ago)
 - [zkp-learning/Nova-Analysis](https://github.com/zkp-learning/Nova-Analysis) - For learning Nova code (2 weeks ago)
 - [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (3 weeks ago)
@@ -43,7 +44,6 @@
 - [Layr-Labs/eigenlayer-middleware](https://github.com/Layr-Labs/eigenlayer-middleware) -  (1 month ago)
 - [Layr-Labs/eigensdk-go](https://github.com/Layr-Labs/eigensdk-go) - Go SDK for building AVSs on Eigenlayer (1 month ago)
 - [Consensys/gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license (1 month ago)
-- [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
