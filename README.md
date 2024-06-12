@@ -29,6 +29,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [0xEigenLabs/eigen-zeth](https://github.com/0xEigenLabs/eigen-zeth) - A &#34;Type 0&#34; zkEVM (today)
 - [initc3/babySNARK](https://github.com/initc3/babySNARK) - Baby SNARK (do do dodo dodo) (2 days ago)
 - [thehubbleproject/contracts](https://github.com/thehubbleproject/contracts) - Smart contracts for OPRHub protocol ✌🏻 (3 days ago)
 - [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (1 week ago)
@@ -43,7 +44,6 @@
 - [volcano-sh/devices](https://github.com/volcano-sh/devices) - Device plugins for Volcano, e.g. GPU (1 month ago)
 - [NethermindEth/cairo-vm-go](https://github.com/NethermindEth/cairo-vm-go) - A virtual machine for Cairo written in Go (1 month ago)
 - [Layr-Labs/eigenlayer-middleware](https://github.com/Layr-Labs/eigenlayer-middleware) -  (1 month ago)
-- [Layr-Labs/eigensdk-go](https://github.com/Layr-Labs/eigensdk-go) - Go SDK for building AVSs on Eigenlayer (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
