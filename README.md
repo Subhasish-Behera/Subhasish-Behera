@@ -29,8 +29,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [initc3/babySNARK](https://github.com/initc3/babySNARK) - Baby SNARK (do do dodo dodo) (1 day ago)
-- [thehubbleproject/contracts](https://github.com/thehubbleproject/contracts) - Smart contracts for OPRHub protocol ✌🏻 (2 days ago)
+- [initc3/babySNARK](https://github.com/initc3/babySNARK) - Baby SNARK (do do dodo dodo) (2 days ago)
+- [thehubbleproject/contracts](https://github.com/thehubbleproject/contracts) - Smart contracts for OPRHub protocol ✌🏻 (3 days ago)
 - [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (1 week ago)
 - [zkp-learning/Nova-Analysis](https://github.com/zkp-learning/Nova-Analysis) - For learning Nova code (2 weeks ago)
 - [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (3 weeks ago)
