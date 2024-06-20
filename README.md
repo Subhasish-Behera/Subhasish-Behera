@@ -42,8 +42,8 @@
 - [privacy-scaling-explorations/core-program](https://github.com/privacy-scaling-explorations/core-program) -  (1 month ago)
 - [intel/intel-resource-drivers-for-kubernetes](https://github.com/intel/intel-resource-drivers-for-kubernetes) -  (1 month ago)
 - [volcano-sh/devices](https://github.com/volcano-sh/devices) - Device plugins for Volcano, e.g. GPU (1 month ago)
-- [NethermindEth/cairo-vm-go](https://github.com/NethermindEth/cairo-vm-go) - A virtual machine for Cairo written in Go (1 month ago)
-- [Layr-Labs/eigenlayer-middleware](https://github.com/Layr-Labs/eigenlayer-middleware) -  (1 month ago)
+- [NethermindEth/cairo-vm-go](https://github.com/NethermindEth/cairo-vm-go) - A virtual machine for Cairo written in Go (2 months ago)
+- [Layr-Labs/eigenlayer-middleware](https://github.com/Layr-Labs/eigenlayer-middleware) -  (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
