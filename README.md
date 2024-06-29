@@ -32,7 +32,7 @@
 - [0xEigenLabs/eigen-zeth](https://github.com/0xEigenLabs/eigen-zeth) - A &#34;Type 0&#34; zkEVM (2 weeks ago)
 - [initc3/babySNARK](https://github.com/initc3/babySNARK) - Baby SNARK (do do dodo dodo) (2 weeks ago)
 - [thehubbleproject/contracts](https://github.com/thehubbleproject/contracts) - Smart contracts for OPRHub protocol ✌🏻 (2 weeks ago)
-- [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (3 weeks ago)
+- [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (4 weeks ago)
 - [zkp-learning/Nova-Analysis](https://github.com/zkp-learning/Nova-Analysis) - For learning Nova code (1 month ago)
 - [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (1 month ago)
 - [lurk-lab/solidity-verifier](https://github.com/lurk-lab/solidity-verifier) - Solidity implementation of Nova proving system verifier (1 month ago)
