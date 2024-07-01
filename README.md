@@ -29,16 +29,16 @@
 
 #### ⭐ Check out my recent stars
 
-- [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml) - Circom Circuits Library for Machine Learning (1 day ago)
+- [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml) - Circom Circuits Library for Machine Learning (2 days ago)
 - [0xEigenLabs/eigen-zeth](https://github.com/0xEigenLabs/eigen-zeth) - A &#34;Type 0&#34; zkEVM (2 weeks ago)
-- [initc3/babySNARK](https://github.com/initc3/babySNARK) - Baby SNARK (do do dodo dodo) (2 weeks ago)
+- [initc3/babySNARK](https://github.com/initc3/babySNARK) - Baby SNARK (do do dodo dodo) (3 weeks ago)
 - [thehubbleproject/contracts](https://github.com/thehubbleproject/contracts) - Smart contracts for OPRHub protocol ✌🏻 (3 weeks ago)
-- [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (4 weeks ago)
+- [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (1 month ago)
 - [zkp-learning/Nova-Analysis](https://github.com/zkp-learning/Nova-Analysis) - For learning Nova code (1 month ago)
 - [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (1 month ago)
 - [lurk-lab/solidity-verifier](https://github.com/lurk-lab/solidity-verifier) - Solidity implementation of Nova proving system verifier (1 month ago)
 - [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (1 month ago)
-- [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for &#34;How to Learn Mathematics Fast&#34; By Siraj Raval on Youtube (1 month ago)
+- [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for &#34;How to Learn Mathematics Fast&#34; By Siraj Raval on Youtube (2 months ago)
 - [anon-aadhaar/anon-aadhaar](https://github.com/anon-aadhaar/anon-aadhaar) - Anon Aadhaar is a zero-knowledge protocol that allows Aadhaar ID owners to prove their identity in a privacy preserving way. (2 months ago)
 - [privacy-scaling-explorations/core-program](https://github.com/privacy-scaling-explorations/core-program) -  (2 months ago)
 - [intel/intel-resource-drivers-for-kubernetes](https://github.com/intel/intel-resource-drivers-for-kubernetes) -  (2 months ago)
