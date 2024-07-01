@@ -50,5 +50,4 @@
 - [Subhasish-Behera/Gedis_KV](https://github.com/Subhasish-Behera/Gedis_KV) -  (4 months ago)
 - [Subhasish-Behera/GKafka_HA_eventing_system](https://github.com/Subhasish-Behera/GKafka_HA_eventing_system) -  (4 months ago)
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (10 months ago)
-- [Subhasish-Behera/Unclaimed](https://github.com/Subhasish-Behera/Unclaimed) -  (1 year ago)
 
