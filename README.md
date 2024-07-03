@@ -29,8 +29,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml) - Circom Circuits Library for Machine Learning (3 days ago)
-- [0xEigenLabs/eigen-zeth](https://github.com/0xEigenLabs/eigen-zeth) - A &#34;Type 0&#34; zkEVM (2 weeks ago)
+- [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml) - Circom Circuits Library for Machine Learning (4 days ago)
+- [0xEigenLabs/eigen-zeth](https://github.com/0xEigenLabs/eigen-zeth) - A &#34;Type 0&#34; zkEVM (3 weeks ago)
 - [initc3/babySNARK](https://github.com/initc3/babySNARK) - Baby SNARK (do do dodo dodo) (3 weeks ago)
 - [thehubbleproject/contracts](https://github.com/thehubbleproject/contracts) - Smart contracts for OPRHub protocol ✌🏻 (3 weeks ago)
 - [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (1 month ago)
@@ -49,5 +49,5 @@
 
 - [Subhasish-Behera/Gedis_KV](https://github.com/Subhasish-Behera/Gedis_KV) -  (4 months ago)
 - [Subhasish-Behera/GKafka_HA_eventing_system](https://github.com/Subhasish-Behera/GKafka_HA_eventing_system) -  (4 months ago)
-- [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (10 months ago)
+- [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (11 months ago)
 
