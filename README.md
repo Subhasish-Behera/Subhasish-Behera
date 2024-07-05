@@ -29,8 +29,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (1 day ago)
-- [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml) - Circom Circuits Library for Machine Learning (5 days ago)
+- [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (2 days ago)
+- [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml) - Circom Circuits Library for Machine Learning (6 days ago)
 - [0xEigenLabs/eigen-zeth](https://github.com/0xEigenLabs/eigen-zeth) - A &#34;Type 0&#34; zkEVM (3 weeks ago)
 - [initc3/babySNARK](https://github.com/initc3/babySNARK) - Baby SNARK (do do dodo dodo) (3 weeks ago)
 - [thehubbleproject/contracts](https://github.com/thehubbleproject/contracts) - Smart contracts for OPRHub protocol ✌🏻 (3 weeks ago)
