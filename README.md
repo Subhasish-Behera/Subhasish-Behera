@@ -29,13 +29,13 @@
 
 #### ⭐ Check out my recent stars
 
-- [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) -  (1 day ago)
-- [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (1 day ago)
-- [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (3 days ago)
+- [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) -  (2 days ago)
+- [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (2 days ago)
+- [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (4 days ago)
 - [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml) - Circom Circuits Library for Machine Learning (1 week ago)
 - [0xEigenLabs/eigen-zeth](https://github.com/0xEigenLabs/eigen-zeth) - A &#34;Type 0&#34; zkEVM (3 weeks ago)
 - [initc3/babySNARK](https://github.com/initc3/babySNARK) - Baby SNARK (do do dodo dodo) (3 weeks ago)
-- [thehubbleproject/contracts](https://github.com/thehubbleproject/contracts) - Smart contracts for OPRHub protocol ✌🏻 (3 weeks ago)
+- [thehubbleproject/contracts](https://github.com/thehubbleproject/contracts) - Smart contracts for OPRHub protocol ✌🏻 (4 weeks ago)
 - [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (1 month ago)
 - [zkp-learning/Nova-Analysis](https://github.com/zkp-learning/Nova-Analysis) - For learning Nova code (1 month ago)
 - [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (1 month ago)
