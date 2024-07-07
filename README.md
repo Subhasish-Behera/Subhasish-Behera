@@ -29,6 +29,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (today)
 - [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) -  (2 days ago)
 - [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (2 days ago)
 - [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (4 days ago)
@@ -43,7 +44,6 @@
 - [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (1 month ago)
 - [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for &#34;How to Learn Mathematics Fast&#34; By Siraj Raval on Youtube (2 months ago)
 - [anon-aadhaar/anon-aadhaar](https://github.com/anon-aadhaar/anon-aadhaar) - Anon Aadhaar is a zero-knowledge protocol that allows Aadhaar ID owners to prove their identity in a privacy preserving way. (2 months ago)
-- [privacy-scaling-explorations/core-program](https://github.com/privacy-scaling-explorations/core-program) -  (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
