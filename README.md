@@ -29,6 +29,8 @@
 
 #### ⭐ Check out my recent stars
 
+- [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (today)
+- [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (today)
 - [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (today)
 - [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) -  (2 days ago)
 - [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (2 days ago)
@@ -42,8 +44,6 @@
 - [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (1 month ago)
 - [lurk-lab/solidity-verifier](https://github.com/lurk-lab/solidity-verifier) - Solidity implementation of Nova proving system verifier (1 month ago)
 - [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (1 month ago)
-- [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for &#34;How to Learn Mathematics Fast&#34; By Siraj Raval on Youtube (2 months ago)
-- [anon-aadhaar/anon-aadhaar](https://github.com/anon-aadhaar/anon-aadhaar) - Anon Aadhaar is a zero-knowledge protocol that allows Aadhaar ID owners to prove their identity in a privacy preserving way. (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
