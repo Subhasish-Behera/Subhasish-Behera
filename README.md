@@ -29,6 +29,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (today)
 - [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (1 day ago)
 - [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (1 day ago)
 - [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (1 day ago)
@@ -43,7 +44,6 @@
 - [zkp-learning/Nova-Analysis](https://github.com/zkp-learning/Nova-Analysis) - For learning Nova code (1 month ago)
 - [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (1 month ago)
 - [lurk-lab/solidity-verifier](https://github.com/lurk-lab/solidity-verifier) - Solidity implementation of Nova proving system verifier (1 month ago)
-- [miha-stopar/crypto-notes](https://github.com/miha-stopar/crypto-notes) - Notes on cryptographic schemes and attacks (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
