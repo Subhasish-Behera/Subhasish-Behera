@@ -29,15 +29,15 @@
 
 #### ⭐ Check out my recent stars
 
-- [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (today)
-- [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (today)
-- [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (today)
-- [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) -  (2 days ago)
-- [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (2 days ago)
-- [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (4 days ago)
+- [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (1 day ago)
+- [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (1 day ago)
+- [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (1 day ago)
+- [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) -  (3 days ago)
+- [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (3 days ago)
+- [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (5 days ago)
 - [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml) - Circom Circuits Library for Machine Learning (1 week ago)
 - [0xEigenLabs/eigen-zeth](https://github.com/0xEigenLabs/eigen-zeth) - A &#34;Type 0&#34; zkEVM (3 weeks ago)
-- [initc3/babySNARK](https://github.com/initc3/babySNARK) - Baby SNARK (do do dodo dodo) (3 weeks ago)
+- [initc3/babySNARK](https://github.com/initc3/babySNARK) - Baby SNARK (do do dodo dodo) (4 weeks ago)
 - [thehubbleproject/contracts](https://github.com/thehubbleproject/contracts) - Smart contracts for OPRHub protocol ✌🏻 (4 weeks ago)
 - [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (1 month ago)
 - [zkp-learning/Nova-Analysis](https://github.com/zkp-learning/Nova-Analysis) - For learning Nova code (1 month ago)
