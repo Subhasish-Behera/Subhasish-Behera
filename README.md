@@ -29,6 +29,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (today)
 - [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (1 day ago)
 - [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (2 days ago)
 - [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (2 days ago)
@@ -43,7 +44,6 @@
 - [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (1 month ago)
 - [zkp-learning/Nova-Analysis](https://github.com/zkp-learning/Nova-Analysis) - For learning Nova code (1 month ago)
 - [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (1 month ago)
-- [lurk-lab/solidity-verifier](https://github.com/lurk-lab/solidity-verifier) - Solidity implementation of Nova proving system verifier (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
