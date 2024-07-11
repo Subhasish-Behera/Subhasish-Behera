@@ -10,7 +10,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[WIP]Add separate plugin for DRA(Dynamic Resource Allocation).](https://github.com/volcano-sh/volcano/pull/3577) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (today)
+- [[WIP]Add separate plugin for DRA(Dynamic Resource Allocation).](https://github.com/volcano-sh/volcano/pull/3577) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (1 day ago)
 - [Add dynamic resource allocation design details.](https://github.com/volcano-sh/volcano/pull/3487) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (1 month ago)
 - [refactor: change dynamicResources struct to DynamicResources](https://github.com/kubernetes/kubernetes/pull/124269) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 months ago)
 - [test: add tests for package resourcequota plugin.](https://github.com/volcano-sh/volcano/pull/3320) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (4 months ago)
@@ -30,13 +30,13 @@
 
 #### ⭐ Check out my recent stars
 
-- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (1 day ago)
-- [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (2 days ago)
-- [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (3 days ago)
-- [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (3 days ago)
-- [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (3 days ago)
-- [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) -  (5 days ago)
-- [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (5 days ago)
+- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (2 days ago)
+- [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (3 days ago)
+- [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (4 days ago)
+- [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (4 days ago)
+- [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (4 days ago)
+- [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) -  (6 days ago)
+- [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (6 days ago)
 - [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (1 week ago)
 - [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml) - Circom Circuits Library for Machine Learning (1 week ago)
 - [0xEigenLabs/eigen-zeth](https://github.com/0xEigenLabs/eigen-zeth) - A &#34;Type 0&#34; zkEVM (4 weeks ago)
