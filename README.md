@@ -1,6 +1,5 @@
 # 💫 About Me:
-<br>Hii !🤝 I am Subhasish Behera<br>🌱 I’m interested in  Programmable cryptography(ZKP), Blockchain/Web3 and Cloud native technologies <be>
-
+<br>Hii !🤝 I am Subhasish Behera<br>🌱 I’m interested in Cloud technologies and Distributed Systems. <br>
 
 
 ## 🌐 Socials:
