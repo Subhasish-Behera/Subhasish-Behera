@@ -10,10 +10,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[WIP]Add separate plugin for DRA(Dynamic Resource Allocation).](https://github.com/volcano-sh/volcano/pull/3577) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (5 days ago)
+- [[WIP]Add separate plugin for DRA(Dynamic Resource Allocation).](https://github.com/volcano-sh/volcano/pull/3577) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (6 days ago)
 - [Add dynamic resource allocation design details.](https://github.com/volcano-sh/volcano/pull/3487) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (1 month ago)
 - [refactor: change dynamicResources struct to DynamicResources](https://github.com/kubernetes/kubernetes/pull/124269) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 months ago)
-- [test: add tests for package resourcequota plugin.](https://github.com/volcano-sh/volcano/pull/3320) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (4 months ago)
+- [test: add tests for package resourcequota plugin.](https://github.com/volcano-sh/volcano/pull/3320) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (5 months ago)
 - [Implement muted users](https://github.com/zulip/zulip-terminal/pull/1425) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (10 months ago)
 - [upload: Enable File Upload for users.](https://github.com/zulip/zulip-terminal/pull/1414) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (1 year ago)
 - [Refactor: change pm_with to pm-with](https://github.com/zulip/zulip-terminal/pull/1352) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (1 year ago)
@@ -30,7 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (6 days ago)
+- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (1 week ago)
 - [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (1 week ago)
 - [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (1 week ago)
 - [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (1 week ago)
