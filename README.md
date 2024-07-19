@@ -30,6 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (today)
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (1 week ago)
 - [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (1 week ago)
 - [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (1 week ago)
@@ -44,7 +45,6 @@
 - [thehubbleproject/contracts](https://github.com/thehubbleproject/contracts) - Smart contracts for OPRHub protocol ✌🏻 (1 month ago)
 - [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (1 month ago)
 - [zkp-learning/Nova-Analysis](https://github.com/zkp-learning/Nova-Analysis) - For learning Nova code (1 month ago)
-- [polymerdao/plonky2-circom](https://github.com/polymerdao/plonky2-circom) -  (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
