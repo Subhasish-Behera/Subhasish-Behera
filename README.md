@@ -30,6 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (today)
 - [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (2 days ago)
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (1 week ago)
 - [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (1 week ago)
@@ -44,7 +45,6 @@
 - [initc3/babySNARK](https://github.com/initc3/babySNARK) - Baby SNARK (do do dodo dodo) (1 month ago)
 - [thehubbleproject/contracts](https://github.com/thehubbleproject/contracts) - Smart contracts for OPRHub protocol ✌🏻 (1 month ago)
 - [phklive/journey](https://github.com/phklive/journey) - My personal learning journey (1 month ago)
-- [zkp-learning/Nova-Analysis](https://github.com/zkp-learning/Nova-Analysis) - For learning Nova code (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
