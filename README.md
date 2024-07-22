@@ -51,5 +51,4 @@
 - [Subhasish-Behera/Gedis_KV](https://github.com/Subhasish-Behera/Gedis_KV) -  (5 months ago)
 - [Subhasish-Behera/GKafka_HA_eventing_system](https://github.com/Subhasish-Behera/GKafka_HA_eventing_system) -  (5 months ago)
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (11 months ago)
-- [Subhasish-Behera/TCP-Server-Client](https://github.com/Subhasish-Behera/TCP-Server-Client) - playing with rust (1 year ago)
 
