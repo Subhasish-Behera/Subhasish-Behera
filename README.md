@@ -10,7 +10,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [[WIP]Add separate plugin for DRA(Dynamic Resource Allocation).](https://github.com/volcano-sh/volcano/pull/3577) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (1 week ago)
+- [[WIP]Add separate plugin for DRA(Dynamic Resource Allocation).](https://github.com/volcano-sh/volcano/pull/3577) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (2 weeks ago)
 - [Add dynamic resource allocation design details.](https://github.com/volcano-sh/volcano/pull/3487) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (2 months ago)
 - [refactor: change dynamicResources struct to DynamicResources](https://github.com/kubernetes/kubernetes/pull/124269) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 months ago)
 - [test: add tests for package resourcequota plugin.](https://github.com/volcano-sh/volcano/pull/3320) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (5 months ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (2 days ago)
-- [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (4 days ago)
+- [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (3 days ago)
+- [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (5 days ago)
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (2 weeks ago)
 - [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (2 weeks ago)
 - [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (2 weeks ago)
@@ -39,7 +39,7 @@
 - [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (2 weeks ago)
 - [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) -  (2 weeks ago)
 - [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (2 weeks ago)
-- [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (2 weeks ago)
+- [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (3 weeks ago)
 - [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml) - Circom Circuits Library for Machine Learning (3 weeks ago)
 - [0xEigenLabs/eigen-zeth](https://github.com/0xEigenLabs/eigen-zeth) - A &#34;Type 0&#34; zkEVM (1 month ago)
 - [initc3/babySNARK](https://github.com/initc3/babySNARK) - Baby SNARK (do do dodo dodo) (1 month ago)
