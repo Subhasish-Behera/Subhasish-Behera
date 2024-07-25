@@ -30,9 +30,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [ethereum/research](https://github.com/ethereum/research) -  (today)
-- [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (3 days ago)
-- [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (5 days ago)
+- [ethereum/research](https://github.com/ethereum/research) -  (1 day ago)
+- [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (4 days ago)
+- [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (6 days ago)
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (2 weeks ago)
 - [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (2 weeks ago)
 - [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (2 weeks ago)
