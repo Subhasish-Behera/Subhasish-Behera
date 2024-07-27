@@ -30,8 +30,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [ethereum/research](https://github.com/ethereum/research) -  (2 days ago)
-- [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (5 days ago)
+- [ethereum/research](https://github.com/ethereum/research) -  (3 days ago)
+- [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (6 days ago)
 - [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (1 week ago)
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (2 weeks ago)
 - [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (2 weeks ago)
@@ -41,7 +41,7 @@
 - [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) -  (3 weeks ago)
 - [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (3 weeks ago)
 - [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (3 weeks ago)
-- [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml) - Circom Circuits Library for Machine Learning (3 weeks ago)
+- [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml) - Circom Circuits Library for Machine Learning (4 weeks ago)
 - [0xEigenLabs/eigen-zeth](https://github.com/0xEigenLabs/eigen-zeth) - A &#34;Type 0&#34; zkEVM (1 month ago)
 - [initc3/babySNARK](https://github.com/initc3/babySNARK) - Baby SNARK (do do dodo dodo) (1 month ago)
 - [thehubbleproject/contracts](https://github.com/thehubbleproject/contracts) - Smart contracts for OPRHub protocol ✌🏻 (1 month ago)
