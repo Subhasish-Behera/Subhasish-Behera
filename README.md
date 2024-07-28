@@ -30,14 +30,14 @@
 
 #### ⭐ Check out my recent stars
 
-- [ethereum/research](https://github.com/ethereum/research) -  (3 days ago)
-- [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (6 days ago)
+- [ethereum/research](https://github.com/ethereum/research) -  (4 days ago)
+- [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (1 week ago)
 - [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (1 week ago)
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (2 weeks ago)
 - [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (2 weeks ago)
-- [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (2 weeks ago)
-- [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (2 weeks ago)
-- [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (2 weeks ago)
+- [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (3 weeks ago)
+- [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (3 weeks ago)
+- [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (3 weeks ago)
 - [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) -  (3 weeks ago)
 - [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (3 weeks ago)
 - [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (3 weeks ago)
