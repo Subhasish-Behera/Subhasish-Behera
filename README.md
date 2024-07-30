@@ -30,11 +30,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [acmert/bfv-python](https://github.com/acmert/bfv-python) - Simple Python implementation of BFV Homomorphic Encryption Scheme (1 day ago)
-- [ethereum/research](https://github.com/ethereum/research) -  (5 days ago)
+- [acmert/bfv-python](https://github.com/acmert/bfv-python) - Simple Python implementation of BFV Homomorphic Encryption Scheme (2 days ago)
+- [ethereum/research](https://github.com/ethereum/research) -  (6 days ago)
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (1 week ago)
 - [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (1 week ago)
-- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (2 weeks ago)
+- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (3 weeks ago)
 - [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (3 weeks ago)
 - [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (3 weeks ago)
 - [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (3 weeks ago)
