@@ -30,19 +30,19 @@
 
 #### ⭐ Check out my recent stars
 
-- [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (today)
-- [acmert/bfv-python](https://github.com/acmert/bfv-python) - Simple Python implementation of BFV Homomorphic Encryption Scheme (4 days ago)
+- [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (1 day ago)
+- [acmert/bfv-python](https://github.com/acmert/bfv-python) - Simple Python implementation of BFV Homomorphic Encryption Scheme (5 days ago)
 - [ethereum/research](https://github.com/ethereum/research) -  (1 week ago)
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (1 week ago)
-- [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (1 week ago)
+- [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (2 weeks ago)
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (3 weeks ago)
 - [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (3 weeks ago)
 - [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (3 weeks ago)
 - [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (3 weeks ago)
 - [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (3 weeks ago)
-- [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) -  (3 weeks ago)
-- [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (3 weeks ago)
-- [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (4 weeks ago)
+- [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) -  (4 weeks ago)
+- [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (4 weeks ago)
+- [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (1 month ago)
 - [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml) - Circom Circuits Library for Machine Learning (1 month ago)
 - [0xEigenLabs/eigen-zeth](https://github.com/0xEigenLabs/eigen-zeth) - A &#34;Type 0&#34; zkEVM (1 month ago)
 
@@ -50,5 +50,5 @@
 
 - [Subhasish-Behera/Gedis_KV](https://github.com/Subhasish-Behera/Gedis_KV) -  (5 months ago)
 - [Subhasish-Behera/GKafka_HA_eventing_system](https://github.com/Subhasish-Behera/GKafka_HA_eventing_system) -  (5 months ago)
-- [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (11 months ago)
+- [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (1 year ago)
 
