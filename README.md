@@ -40,7 +40,7 @@
 - [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (3 weeks ago)
 - [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (3 weeks ago)
 - [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (3 weeks ago)
-- [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) -  (4 weeks ago)
+- [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) - A curated list of awesome projects and resources related to AVS development and EigenLayer. (4 weeks ago)
 - [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (4 weeks ago)
 - [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (1 month ago)
 - [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml) - Circom Circuits Library for Machine Learning (1 month ago)
