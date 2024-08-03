@@ -30,8 +30,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (1 day ago)
-- [acmert/bfv-python](https://github.com/acmert/bfv-python) - Simple Python implementation of BFV Homomorphic Encryption Scheme (5 days ago)
+- [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (2 days ago)
+- [acmert/bfv-python](https://github.com/acmert/bfv-python) - Simple Python implementation of BFV Homomorphic Encryption Scheme (6 days ago)
 - [ethereum/research](https://github.com/ethereum/research) -  (1 week ago)
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (1 week ago)
 - [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (2 weeks ago)
@@ -49,6 +49,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [Subhasish-Behera/Gedis_KV](https://github.com/Subhasish-Behera/Gedis_KV) -  (5 months ago)
-- [Subhasish-Behera/GKafka_HA_eventing_system](https://github.com/Subhasish-Behera/GKafka_HA_eventing_system) -  (5 months ago)
+- [Subhasish-Behera/GKafka_HA_eventing_system](https://github.com/Subhasish-Behera/GKafka_HA_eventing_system) -  (6 months ago)
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client. (1 year ago)
 
