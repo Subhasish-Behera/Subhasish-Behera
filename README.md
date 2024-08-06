@@ -30,16 +30,16 @@
 
 #### ⭐ Check out my recent stars
 
-- [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (4 days ago)
+- [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (5 days ago)
 - [acmert/bfv-python](https://github.com/acmert/bfv-python) - Simple Python implementation of BFV Homomorphic Encryption Scheme (1 week ago)
 - [ethereum/research](https://github.com/ethereum/research) -  (1 week ago)
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (2 weeks ago)
 - [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (2 weeks ago)
-- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (3 weeks ago)
+- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (4 weeks ago)
 - [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (4 weeks ago)
-- [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (4 weeks ago)
-- [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (4 weeks ago)
-- [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (4 weeks ago)
+- [philsippl/circom-witness-rs](https://github.com/philsippl/circom-witness-rs) -  (1 month ago)
+- [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (1 month ago)
+- [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (1 month ago)
 - [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) - A curated list of awesome projects and resources related to AVS development and EigenLayer. (1 month ago)
 - [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (1 month ago)
 - [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (1 month ago)
