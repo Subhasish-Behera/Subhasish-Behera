@@ -19,7 +19,7 @@
 - [Refactor: change pm_with to pm-with](https://github.com/zulip/zulip-terminal/pull/1352) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (1 year ago)
 - [Add moved label for topic/stream changes](https://github.com/zulip/zulip-terminal/pull/1331) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (1 year ago)
 - [[WIP]model/messages/api_types: alert_words mark up](https://github.com/zulip/zulip-terminal/pull/1314) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (1 year ago)
-- [[WIP] Notify when a message with alert word is received](https://github.com/zulip/zulip-terminal/pull/1301) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (1 year ago)
+- [[WIP] Notify when a message with alert word is received](https://github.com/zulip/zulip-terminal/pull/1301) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (2 years ago)
 - [[WIP] Handle typing events from multiple users in a PM narrow ](https://github.com/zulip/zulip-terminal/pull/1291) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (2 years ago)
 - [[WIP] Disable cycling while editing a PM](https://github.com/zulip/zulip-terminal/pull/1280) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (2 years ago)
 - [Maintain position in topic list when toggling topic list](https://github.com/zulip/zulip-terminal/pull/1277) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (2 years ago)
@@ -30,7 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [mojalil/learn-fhe](https://github.com/mojalil/learn-fhe) - A curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE). (4 days ago)
+- [mojalil/learn-fhe](https://github.com/mojalil/learn-fhe) - A curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE). (5 days ago)
 - [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (1 week ago)
 - [acmert/bfv-python](https://github.com/acmert/bfv-python) - Simple Python implementation of BFV Homomorphic Encryption Scheme (2 weeks ago)
 - [ethereum/research](https://github.com/ethereum/research) -  (2 weeks ago)
