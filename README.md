@@ -35,7 +35,7 @@
 - [acmert/bfv-python](https://github.com/acmert/bfv-python) - Simple Python implementation of BFV Homomorphic Encryption Scheme (2 weeks ago)
 - [ethereum/research](https://github.com/ethereum/research) -  (3 weeks ago)
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (3 weeks ago)
-- [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (3 weeks ago)
+- [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (4 weeks ago)
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (1 month ago)
 - [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (1 month ago)
 - [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (1 month ago)
