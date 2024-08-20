@@ -30,12 +30,12 @@
 
 #### ⭐ Check out my recent stars
 
-- [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (2 days ago)
+- [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (3 days ago)
 - [mojalil/learn-fhe](https://github.com/mojalil/learn-fhe) - A curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE). (1 week ago)
 - [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (2 weeks ago)
 - [acmert/bfv-python](https://github.com/acmert/bfv-python) - Simple Python implementation of BFV Homomorphic Encryption Scheme (3 weeks ago)
 - [ethereum/research](https://github.com/ethereum/research) -  (3 weeks ago)
-- [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (4 weeks ago)
+- [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (1 month ago)
 - [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (1 month ago)
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (1 month ago)
 - [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (1 month ago)
