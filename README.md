@@ -30,6 +30,8 @@
 
 #### ⭐ Check out my recent stars
 
+- [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (today)
+- [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (today)
 - [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (4 days ago)
 - [mojalil/learn-fhe](https://github.com/mojalil/learn-fhe) - A curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE). (1 week ago)
 - [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (2 weeks ago)
@@ -43,8 +45,6 @@
 - [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (1 month ago)
 - [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) - A curated list of awesome projects and resources related to AVS development and EigenLayer. (1 month ago)
 - [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (1 month ago)
-- [arnaucube/awesome-circom](https://github.com/arnaucube/awesome-circom) - A curated list of repos related to Circom (1 month ago)
-- [socathie/circomlib-ml](https://github.com/socathie/circomlib-ml) - Circom Circuits Library for Machine Learning (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
