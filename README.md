@@ -11,7 +11,7 @@
 #### 🔨 Check out my recent pull requests
 
 - [[WIP]Add separate plugin for DRA(Dynamic Resource Allocation).](https://github.com/volcano-sh/volcano/pull/3577) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (1 month ago)
-- [Add dynamic resource allocation design details.](https://github.com/volcano-sh/volcano/pull/3487) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (2 months ago)
+- [Add dynamic resource allocation design details.](https://github.com/volcano-sh/volcano/pull/3487) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (3 months ago)
 - [refactor: change dynamicResources struct to DynamicResources](https://github.com/kubernetes/kubernetes/pull/124269) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 months ago)
 - [test: add tests for package resourcequota plugin.](https://github.com/volcano-sh/volcano/pull/3320) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (6 months ago)
 - [Implement muted users](https://github.com/zulip/zulip-terminal/pull/1425) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (1 year ago)
@@ -30,11 +30,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (today)
-- [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (today)
-- [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (4 days ago)
-- [mojalil/learn-fhe](https://github.com/mojalil/learn-fhe) - A curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE). (1 week ago)
-- [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (2 weeks ago)
+- [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (1 day ago)
+- [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (1 day ago)
+- [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (5 days ago)
+- [mojalil/learn-fhe](https://github.com/mojalil/learn-fhe) - A curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE). (2 weeks ago)
+- [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (3 weeks ago)
 - [acmert/bfv-python](https://github.com/acmert/bfv-python) - Simple Python implementation of BFV Homomorphic Encryption Scheme (3 weeks ago)
 - [ethereum/research](https://github.com/ethereum/research) -  (4 weeks ago)
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (1 month ago)
