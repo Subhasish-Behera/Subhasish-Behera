@@ -30,8 +30,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (4 days ago)
-- [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (4 days ago)
+- [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (5 days ago)
+- [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (5 days ago)
 - [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (1 week ago)
 - [mojalil/learn-fhe](https://github.com/mojalil/learn-fhe) - A curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE). (2 weeks ago)
 - [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (3 weeks ago)
