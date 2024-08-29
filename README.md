@@ -30,6 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (today)
 - [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (1 week ago)
 - [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (1 week ago)
 - [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (1 week ago)
@@ -44,7 +45,6 @@
 - [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (1 month ago)
 - [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (1 month ago)
 - [Layr-Labs/awesome-avs](https://github.com/Layr-Labs/awesome-avs) - A curated list of awesome projects and resources related to AVS development and EigenLayer. (1 month ago)
-- [erhant/circomkit](https://github.com/erhant/circomkit) - A testing &amp; development environment for Circom. (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
