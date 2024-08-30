@@ -30,7 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (today)
+- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (1 day ago)
 - [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (1 week ago)
 - [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (1 week ago)
 - [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (1 week ago)
@@ -48,7 +48,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (1 day ago)
+- [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (2 days ago)
 - [Subhasish-Behera/Gedis_KV](https://github.com/Subhasish-Behera/Gedis_KV) -  (6 months ago)
 - [Subhasish-Behera/GKafka_HA_eventing_system](https://github.com/Subhasish-Behera/GKafka_HA_eventing_system) -  (6 months ago)
 
