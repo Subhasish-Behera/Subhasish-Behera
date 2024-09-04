@@ -30,10 +30,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [nulltea/gkreco](https://github.com/nulltea/gkreco) - Verifiable FHE with GKR (3 days ago)
-- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (5 days ago)
-- [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (1 week ago)
-- [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (1 week ago)
+- [nulltea/gkreco](https://github.com/nulltea/gkreco) - Verifiable FHE with GKR (4 days ago)
+- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (6 days ago)
+- [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (2 weeks ago)
+- [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (2 weeks ago)
 - [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (2 weeks ago)
 - [mojalil/learn-fhe](https://github.com/mojalil/learn-fhe) - A curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE). (3 weeks ago)
 - [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (1 month ago)
@@ -48,8 +48,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (3 days ago)
-- [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (6 days ago)
+- [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (4 days ago)
+- [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (1 week ago)
 - [Subhasish-Behera/Gedis_KV](https://github.com/Subhasish-Behera/Gedis_KV) -  (6 months ago)
 - [Subhasish-Behera/GKafka_HA_eventing_system](https://github.com/Subhasish-Behera/GKafka_HA_eventing_system) -  (7 months ago)
 
