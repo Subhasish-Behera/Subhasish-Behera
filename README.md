@@ -30,7 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [nulltea/gkreco](https://github.com/nulltea/gkreco) - Verifiable FHE with GKR (5 days ago)
+- [nulltea/gkreco](https://github.com/nulltea/gkreco) - Verifiable FHE with GKR (6 days ago)
 - [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (1 week ago)
 - [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (2 weeks ago)
 - [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (2 weeks ago)
@@ -42,13 +42,13 @@
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (1 month ago)
 - [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (1 month ago)
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (1 month ago)
-- [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (1 month ago)
+- [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (2 months ago)
 - [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (2 months ago)
 - [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (5 days ago)
+- [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (6 days ago)
 - [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (1 week ago)
 - [Subhasish-Behera/Gedis_KV](https://github.com/Subhasish-Behera/Gedis_KV) -  (6 months ago)
 - [Subhasish-Behera/GKafka_HA_eventing_system](https://github.com/Subhasish-Behera/GKafka_HA_eventing_system) -  (7 months ago)
