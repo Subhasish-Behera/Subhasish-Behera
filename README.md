@@ -32,8 +32,8 @@
 
 - [nulltea/gkreco](https://github.com/nulltea/gkreco) - Verifiable FHE with GKR (1 week ago)
 - [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (1 week ago)
-- [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (2 weeks ago)
-- [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (2 weeks ago)
+- [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (3 weeks ago)
+- [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (3 weeks ago)
 - [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (3 weeks ago)
 - [mojalil/learn-fhe](https://github.com/mojalil/learn-fhe) - A curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE). (1 month ago)
 - [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (1 month ago)
@@ -49,7 +49,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (1 week ago)
-- [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (1 week ago)
+- [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (2 weeks ago)
 - [Subhasish-Behera/Gedis_KV](https://github.com/Subhasish-Behera/Gedis_KV) -  (7 months ago)
 - [Subhasish-Behera/GKafka_HA_eventing_system](https://github.com/Subhasish-Behera/GKafka_HA_eventing_system) -  (7 months ago)
 
