@@ -31,7 +31,7 @@
 #### ⭐ Check out my recent stars
 
 - [nulltea/gkreco](https://github.com/nulltea/gkreco) - Verifiable FHE with GKR (1 week ago)
-- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (1 week ago)
+- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (2 weeks ago)
 - [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (3 weeks ago)
 - [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (3 weeks ago)
 - [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (3 weeks ago)
