@@ -32,8 +32,8 @@
 
 - [nulltea/hyper-greco](https://github.com/nulltea/hyper-greco) - Verifiable FHE with GKR (2 weeks ago)
 - [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (3 weeks ago)
-- [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (4 weeks ago)
-- [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (4 weeks ago)
+- [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (1 month ago)
+- [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (1 month ago)
 - [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (1 month ago)
 - [mojalil/learn-fhe](https://github.com/mojalil/learn-fhe) - A curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE). (1 month ago)
 - [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (1 month ago)
