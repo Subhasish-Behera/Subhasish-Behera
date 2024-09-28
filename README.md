@@ -30,8 +30,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [nulltea/hyper-greco](https://github.com/nulltea/hyper-greco) - Verifiable FHE with GKR (3 weeks ago)
-- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (4 weeks ago)
+- [nulltea/hyper-greco](https://github.com/nulltea/hyper-greco) - Verifiable FHE with GKR (4 weeks ago)
+- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (1 month ago)
 - [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (1 month ago)
 - [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (1 month ago)
 - [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (1 month ago)
@@ -48,7 +48,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (3 weeks ago)
+- [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (4 weeks ago)
 - [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (1 month ago)
 - [Subhasish-Behera/Gedis_KV](https://github.com/Subhasish-Behera/Gedis_KV) -  (7 months ago)
 - [Subhasish-Behera/GKafka_HA_eventing_system](https://github.com/Subhasish-Behera/GKafka_HA_eventing_system) -  (7 months ago)
