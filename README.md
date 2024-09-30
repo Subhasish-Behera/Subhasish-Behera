@@ -30,13 +30,13 @@
 
 #### ⭐ Check out my recent stars
 
-- [nulltea/hyper-greco](https://github.com/nulltea/hyper-greco) - Verifiable FHE with GKR (4 weeks ago)
+- [nulltea/hyper-greco](https://github.com/nulltea/hyper-greco) - Verifiable FHE with GKR (1 month ago)
 - [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (1 month ago)
 - [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (1 month ago)
 - [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (1 month ago)
 - [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (1 month ago)
 - [mojalil/learn-fhe](https://github.com/mojalil/learn-fhe) - A curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE). (1 month ago)
-- [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (1 month ago)
+- [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (2 months ago)
 - [acmert/bfv-python](https://github.com/acmert/bfv-python) - Simple Python implementation of BFV Homomorphic Encryption Scheme (2 months ago)
 - [ethereum/research](https://github.com/ethereum/research) -  (2 months ago)
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (2 months ago)
@@ -48,7 +48,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (4 weeks ago)
+- [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (1 month ago)
 - [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (1 month ago)
 - [Subhasish-Behera/Gedis_KV](https://github.com/Subhasish-Behera/Gedis_KV) -  (7 months ago)
 - [Subhasish-Behera/GKafka_HA_eventing_system](https://github.com/Subhasish-Behera/GKafka_HA_eventing_system) -  (7 months ago)
