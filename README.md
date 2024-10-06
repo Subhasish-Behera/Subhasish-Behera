@@ -42,7 +42,7 @@
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (2 months ago)
 - [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (2 months ago)
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (2 months ago)
-- [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (2 months ago)
+- [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (3 months ago)
 - [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (3 months ago)
 - [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (3 months ago)
 
