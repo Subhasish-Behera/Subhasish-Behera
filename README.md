@@ -34,7 +34,7 @@
 - [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (1 month ago)
 - [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (1 month ago)
 - [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (1 month ago)
-- [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (1 month ago)
+- [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (2 months ago)
 - [mojalil/learn-fhe](https://github.com/mojalil/learn-fhe) - A curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE). (2 months ago)
 - [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (2 months ago)
 - [acmert/bfv-python](https://github.com/acmert/bfv-python) - Simple Python implementation of BFV Homomorphic Encryption Scheme (2 months ago)
