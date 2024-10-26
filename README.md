@@ -30,6 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [scipr-lab/ecfactory](https://github.com/scipr-lab/ecfactory) - SageMath library for constructing elliptic curves (today)
 - [nulltea/hyper-greco](https://github.com/nulltea/hyper-greco) - Verifiable FHE with GKR (1 month ago)
 - [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (1 month ago)
 - [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (2 months ago)
@@ -44,7 +45,6 @@
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (3 months ago)
 - [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (3 months ago)
 - [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (3 months ago)
-- [zkFHE/circomlib-fhe](https://github.com/zkFHE/circomlib-fhe) - Extensive benchmarks of various zero-knowledge proof systems for Fully Homomorphic Encryption (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
