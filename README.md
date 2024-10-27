@@ -30,6 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [DoHoonKim8/halo2-lasso](https://github.com/DoHoonKim8/halo2-lasso) - Benchmark for adding Lasso lookup argument to halo2 backend (today)
 - [scipr-lab/ecfactory](https://github.com/scipr-lab/ecfactory) - SageMath library for constructing elliptic curves (1 day ago)
 - [nulltea/hyper-greco](https://github.com/nulltea/hyper-greco) - Verifiable FHE with GKR (1 month ago)
 - [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (1 month ago)
@@ -44,7 +45,6 @@
 - [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (3 months ago)
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (3 months ago)
 - [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (3 months ago)
-- [philsippl/semaphore-witness-example](https://github.com/philsippl/semaphore-witness-example) -  (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
