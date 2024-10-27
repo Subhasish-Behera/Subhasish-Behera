@@ -30,7 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [scipr-lab/ecfactory](https://github.com/scipr-lab/ecfactory) - SageMath library for constructing elliptic curves (today)
+- [scipr-lab/ecfactory](https://github.com/scipr-lab/ecfactory) - SageMath library for constructing elliptic curves (1 day ago)
 - [nulltea/hyper-greco](https://github.com/nulltea/hyper-greco) - Verifiable FHE with GKR (1 month ago)
 - [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (1 month ago)
 - [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (2 months ago)
@@ -49,7 +49,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (1 month ago)
-- [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (1 month ago)
+- [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (2 months ago)
 - [Subhasish-Behera/Gedis_KV](https://github.com/Subhasish-Behera/Gedis_KV) -  (8 months ago)
 - [Subhasish-Behera/GKafka_HA_eventing_system](https://github.com/Subhasish-Behera/GKafka_HA_eventing_system) -  (8 months ago)
 
