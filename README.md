@@ -30,15 +30,15 @@
 
 #### ⭐ Check out my recent stars
 
-- [DoHoonKim8/halo2-lasso](https://github.com/DoHoonKim8/halo2-lasso) - Benchmark for adding Lasso lookup argument to halo2 backend (2 days ago)
-- [scipr-lab/ecfactory](https://github.com/scipr-lab/ecfactory) - SageMath library for constructing elliptic curves (3 days ago)
-- [nulltea/hyper-greco](https://github.com/nulltea/hyper-greco) - Verifiable FHE with GKR (1 month ago)
+- [DoHoonKim8/halo2-lasso](https://github.com/DoHoonKim8/halo2-lasso) - Benchmark for adding Lasso lookup argument to halo2 backend (3 days ago)
+- [scipr-lab/ecfactory](https://github.com/scipr-lab/ecfactory) - SageMath library for constructing elliptic curves (4 days ago)
+- [nulltea/hyper-greco](https://github.com/nulltea/hyper-greco) - Verifiable FHE with GKR (2 months ago)
 - [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (2 months ago)
 - [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (2 months ago)
 - [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (2 months ago)
 - [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (2 months ago)
 - [mojalil/learn-fhe](https://github.com/mojalil/learn-fhe) - A curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE). (2 months ago)
-- [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (2 months ago)
+- [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (3 months ago)
 - [acmert/bfv-python](https://github.com/acmert/bfv-python) - Simple Python implementation of BFV Homomorphic Encryption Scheme (3 months ago)
 - [ethereum/research](https://github.com/ethereum/research) -  (3 months ago)
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (3 months ago)
@@ -48,7 +48,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (1 month ago)
+- [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (2 months ago)
 - [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (2 months ago)
 - [Subhasish-Behera/Gedis_KV](https://github.com/Subhasish-Behera/Gedis_KV) -  (8 months ago)
 - [Subhasish-Behera/GKafka_HA_eventing_system](https://github.com/Subhasish-Behera/GKafka_HA_eventing_system) -  (8 months ago)
