@@ -44,7 +44,7 @@
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (3 months ago)
 - [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (3 months ago)
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (3 months ago)
-- [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (3 months ago)
+- [chaosma/nova-maci](https://github.com/chaosma/nova-maci) -  (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
