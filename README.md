@@ -30,6 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv (today)
 - [arkworks-rs/circom-compat](https://github.com/arkworks-rs/circom-compat) - Arkworks bindings to Circom&#39;s R1CS, for Groth16 Proof and Witness generation in Rust. (2 days ago)
 - [DoHoonKim8/halo2-lasso](https://github.com/DoHoonKim8/halo2-lasso) - Benchmark for adding Lasso lookup argument to halo2 backend (2 months ago)
 - [scipr-lab/ecfactory](https://github.com/scipr-lab/ecfactory) - SageMath library for constructing elliptic curves (2 months ago)
@@ -44,7 +45,6 @@
 - [ethereum/research](https://github.com/ethereum/research) -  (5 months ago)
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (5 months ago)
 - [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here! (5 months ago)
-- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications (5 months ago)
 
 #### 👷 Check out what I'm currently working on
 
