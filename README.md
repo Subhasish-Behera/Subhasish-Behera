@@ -30,7 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [arkworks-rs/algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic (3 days ago)
+- [arkworks-rs/algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic (4 days ago)
 - [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv (1 week ago)
 - [arkworks-rs/circom-compat](https://github.com/arkworks-rs/circom-compat) - Arkworks bindings to Circom&#39;s R1CS, for Groth16 Proof and Witness generation in Rust. (1 week ago)
 - [DoHoonKim8/halo2-lasso](https://github.com/DoHoonKim8/halo2-lasso) - Benchmark for adding Lasso lookup argument to halo2 backend (2 months ago)
