@@ -43,7 +43,7 @@
 - [mojalil/learn-fhe](https://github.com/mojalil/learn-fhe) - A curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE). (5 months ago)
 - [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (5 months ago)
 - [acmert/bfv-python](https://github.com/acmert/bfv-python) - Simple Python implementation of BFV Homomorphic Encryption Scheme (5 months ago)
-- [ethereum/research](https://github.com/ethereum/research) -  (5 months ago)
+- [ethereum/research](https://github.com/ethereum/research) -  (6 months ago)
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff (6 months ago)
 
 #### 👷 Check out what I'm currently working on
