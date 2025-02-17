@@ -52,5 +52,4 @@
 - [Subhasish-Behera/enclave_inclusion](https://github.com/Subhasish-Behera/enclave_inclusion) -  (3 months ago)
 - [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (5 months ago)
 - [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (5 months ago)
-- [Subhasish-Behera/Gedis_KV](https://github.com/Subhasish-Behera/Gedis_KV) -  (1 year ago)
 
