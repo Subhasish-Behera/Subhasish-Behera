@@ -30,6 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay (today)
 - [yugocabrio/NTT_implementation](https://github.com/yugocabrio/NTT_implementation) - Number Theoretic Transform (1 week ago)
 - [arkworks-rs/algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic (1 month ago)
 - [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv (1 month ago)
@@ -44,7 +45,6 @@
 - [mojalil/learn-fhe](https://github.com/mojalil/learn-fhe) - A curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE). (6 months ago)
 - [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (6 months ago)
 - [acmert/bfv-python](https://github.com/acmert/bfv-python) - Simple Python implementation of BFV Homomorphic Encryption Scheme (7 months ago)
-- [ethereum/research](https://github.com/ethereum/research) -  (7 months ago)
 
 #### 👷 Check out what I'm currently working on
 
