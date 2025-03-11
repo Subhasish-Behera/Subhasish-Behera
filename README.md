@@ -30,7 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (today)
+- [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (1 day ago)
 - [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay (2 weeks ago)
 - [yugocabrio/NTT_implementation](https://github.com/yugocabrio/NTT_implementation) - Number Theoretic Transform (3 weeks ago)
 - [arkworks-rs/algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic (1 month ago)
