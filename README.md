@@ -30,7 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (2 days ago)
+- [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (3 days ago)
 - [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay (2 weeks ago)
 - [yugocabrio/NTT_implementation](https://github.com/yugocabrio/NTT_implementation) - Number Theoretic Transform (3 weeks ago)
 - [arkworks-rs/algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic (2 months ago)
@@ -49,7 +49,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Subhasish-Behera/TCP-Server-Client](https://github.com/Subhasish-Behera/TCP-Server-Client) - playing with rust (1 month ago)
-- [Subhasish-Behera/enclave_inclusion](https://github.com/Subhasish-Behera/enclave_inclusion) -  (3 months ago)
+- [Subhasish-Behera/enclave_inclusion](https://github.com/Subhasish-Behera/enclave_inclusion) -  (4 months ago)
 - [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (6 months ago)
 - [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (6 months ago)
 
