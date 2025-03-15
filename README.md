@@ -30,7 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (4 days ago)
+- [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (5 days ago)
 - [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay (2 weeks ago)
 - [yugocabrio/NTT_implementation](https://github.com/yugocabrio/NTT_implementation) - Number Theoretic Transform (3 weeks ago)
 - [arkworks-rs/algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic (2 months ago)
@@ -42,7 +42,7 @@
 - [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (6 months ago)
 - [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (6 months ago)
 - [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (6 months ago)
-- [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (6 months ago)
+- [iden3/circom_tester](https://github.com/iden3/circom_tester) - Provides tools for testing circom circuits. (7 months ago)
 - [mojalil/learn-fhe](https://github.com/mojalil/learn-fhe) - A curated list of educational materials, guides, and research papers for beginners interested in learning about Fully Homomorphic Encryption (FHE). (7 months ago)
 - [weijiekoh/libkzg](https://github.com/weijiekoh/libkzg) - A minimal KZG polynominal commitment library with a Solidity verifier (7 months ago)
 
