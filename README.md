@@ -25,13 +25,13 @@
 - [Maintain position in topic list when toggling topic list](https://github.com/zulip/zulip-terminal/pull/1277) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (2 years ago)
 - [[receiver/kafkareceiver] support zipkin_json(v1)](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/17186) on [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) (2 years ago)
 - [Maintain position in topic list when toggling topic list (issue #617)](https://github.com/zulip/zulip-terminal/pull/1275) on [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) (2 years ago)
-- [Fix broken formatting in Installing guide](https://github.com/knative/docs/pull/4917) on [knative/docs](https://github.com/knative/docs) (2 years ago)
+- [Fix broken formatting in Installing guide](https://github.com/knative/docs/pull/4917) on [knative/docs](https://github.com/knative/docs) (3 years ago)
 - [removed step 1 of creating service](https://github.com/knative/docs/pull/4914) on [knative/docs](https://github.com/knative/docs) (3 years ago)
 
 #### ⭐ Check out my recent stars
 
-- [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (1 week ago)
-- [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay (3 weeks ago)
+- [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (2 weeks ago)
+- [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay (4 weeks ago)
 - [yugocabrio/NTT_implementation](https://github.com/yugocabrio/NTT_implementation) - Number Theoretic Transform (1 month ago)
 - [arkworks-rs/algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic (2 months ago)
 - [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv (2 months ago)
