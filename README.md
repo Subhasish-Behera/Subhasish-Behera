@@ -30,16 +30,16 @@
 
 #### ⭐ Check out my recent stars
 
-- [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library (1 day ago)
-- [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library (1 day ago)
-- [Aphoh/poly-multiproof](https://github.com/Aphoh/poly-multiproof) - Polynomial commitment schemes with fast openings on multiple points (1 day ago)
+- [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library (2 days ago)
+- [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library (2 days ago)
+- [Aphoh/poly-multiproof](https://github.com/Aphoh/poly-multiproof) - Polynomial commitment schemes with fast openings on multiple points (2 days ago)
 - [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (2 weeks ago)
-- [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay (4 weeks ago)
+- [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay (1 month ago)
 - [yugocabrio/NTT_implementation](https://github.com/yugocabrio/NTT_implementation) - Number Theoretic Transform (1 month ago)
 - [arkworks-rs/algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic (2 months ago)
 - [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv (2 months ago)
 - [arkworks-rs/circom-compat](https://github.com/arkworks-rs/circom-compat) - Arkworks bindings to Circom&#39;s R1CS, for Groth16 Proof and Witness generation in Rust. (2 months ago)
-- [DoHoonKim8/halo2-lasso](https://github.com/DoHoonKim8/halo2-lasso) - Benchmark for adding Lasso lookup argument to halo2 backend (4 months ago)
+- [DoHoonKim8/halo2-lasso](https://github.com/DoHoonKim8/halo2-lasso) - Benchmark for adding Lasso lookup argument to halo2 backend (5 months ago)
 - [scipr-lab/ecfactory](https://github.com/scipr-lab/ecfactory) - SageMath library for constructing elliptic curves (5 months ago)
 - [nulltea/hyper-greco](https://github.com/nulltea/hyper-greco) - Verifiable FHE with GKR (6 months ago)
 - [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (6 months ago)
@@ -48,8 +48,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Subhasish-Behera/TCP-Server-Client](https://github.com/Subhasish-Behera/TCP-Server-Client) - playing with rust (1 month ago)
+- [Subhasish-Behera/TCP-Server-Client](https://github.com/Subhasish-Behera/TCP-Server-Client) - playing with rust (2 months ago)
 - [Subhasish-Behera/enclave_inclusion](https://github.com/Subhasish-Behera/enclave_inclusion) -  (4 months ago)
 - [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (6 months ago)
-- [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (6 months ago)
+- [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (7 months ago)
 
