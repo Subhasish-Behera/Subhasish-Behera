@@ -30,9 +30,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library (2 days ago)
-- [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library (2 days ago)
-- [Aphoh/poly-multiproof](https://github.com/Aphoh/poly-multiproof) - Polynomial commitment schemes with fast openings on multiple points (2 days ago)
+- [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library (3 days ago)
+- [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library (3 days ago)
+- [Aphoh/poly-multiproof](https://github.com/Aphoh/poly-multiproof) - Polynomial commitment schemes with fast openings on multiple points (3 days ago)
 - [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (2 weeks ago)
 - [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay (1 month ago)
 - [yugocabrio/NTT_implementation](https://github.com/yugocabrio/NTT_implementation) - Number Theoretic Transform (1 month ago)
@@ -42,7 +42,7 @@
 - [DoHoonKim8/halo2-lasso](https://github.com/DoHoonKim8/halo2-lasso) - Benchmark for adding Lasso lookup argument to halo2 backend (5 months ago)
 - [scipr-lab/ecfactory](https://github.com/scipr-lab/ecfactory) - SageMath library for constructing elliptic curves (5 months ago)
 - [nulltea/hyper-greco](https://github.com/nulltea/hyper-greco) - Verifiable FHE with GKR (6 months ago)
-- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (6 months ago)
+- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (7 months ago)
 - [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (7 months ago)
 - [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (7 months ago)
 
