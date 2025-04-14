@@ -30,9 +30,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library (2 weeks ago)
-- [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library (2 weeks ago)
-- [Aphoh/poly-multiproof](https://github.com/Aphoh/poly-multiproof) - Polynomial commitment schemes with fast openings on multiple points (2 weeks ago)
+- [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library (3 weeks ago)
+- [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library (3 weeks ago)
+- [Aphoh/poly-multiproof](https://github.com/Aphoh/poly-multiproof) - Polynomial commitment schemes with fast openings on multiple points (3 weeks ago)
 - [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (1 month ago)
 - [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay (1 month ago)
 - [yugocabrio/NTT_implementation](https://github.com/yugocabrio/NTT_implementation) - Number Theoretic Transform (1 month ago)
