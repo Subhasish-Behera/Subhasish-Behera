@@ -30,6 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [libp2p/testlab](https://github.com/libp2p/testlab) - A testlab built with Nomad and Consul to analyze the behavior of p2p networks at scale (today)
 - [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library (3 weeks ago)
 - [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library (3 weeks ago)
 - [Aphoh/poly-multiproof](https://github.com/Aphoh/poly-multiproof) - Polynomial commitment schemes with fast openings on multiple points (3 weeks ago)
@@ -44,7 +45,6 @@
 - [nulltea/hyper-greco](https://github.com/nulltea/hyper-greco) - Verifiable FHE with GKR (7 months ago)
 - [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (7 months ago)
 - [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU (7 months ago)
-- [doutv/circom-benchmark](https://github.com/doutv/circom-benchmark) -  (7 months ago)
 
 #### 👷 Check out what I'm currently working on
 
