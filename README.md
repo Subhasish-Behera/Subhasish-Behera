@@ -30,7 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [libp2p/testlab](https://github.com/libp2p/testlab) - A testlab built with Nomad and Consul to analyze the behavior of p2p networks at scale (2 days ago)
+- [libp2p/testlab](https://github.com/libp2p/testlab) - A testlab built with Nomad and Consul to analyze the behavior of p2p networks at scale (3 days ago)
 - [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library (3 weeks ago)
 - [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library (3 weeks ago)
 - [Aphoh/poly-multiproof](https://github.com/Aphoh/poly-multiproof) - Polynomial commitment schemes with fast openings on multiple points (3 weeks ago)
