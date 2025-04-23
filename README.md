@@ -30,10 +30,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [libp2p/testlab](https://github.com/libp2p/testlab) - A testlab built with Nomad and Consul to analyze the behavior of p2p networks at scale (5 days ago)
-- [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library (4 weeks ago)
-- [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library (4 weeks ago)
-- [Aphoh/poly-multiproof](https://github.com/Aphoh/poly-multiproof) - Polynomial commitment schemes with fast openings on multiple points (4 weeks ago)
+- [libp2p/testlab](https://github.com/libp2p/testlab) - A testlab built with Nomad and Consul to analyze the behavior of p2p networks at scale (6 days ago)
+- [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library (1 month ago)
+- [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library (1 month ago)
+- [Aphoh/poly-multiproof](https://github.com/Aphoh/poly-multiproof) - Polynomial commitment schemes with fast openings on multiple points (1 month ago)
 - [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (1 month ago)
 - [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay (1 month ago)
 - [yugocabrio/NTT_implementation](https://github.com/yugocabrio/NTT_implementation) - Number Theoretic Transform (2 months ago)
