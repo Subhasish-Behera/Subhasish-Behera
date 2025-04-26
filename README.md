@@ -30,7 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [ingonyama-zk/icicle-snark](https://github.com/ingonyama-zk/icicle-snark) - Groth16 over ICICLE (1 day ago)
+- [ingonyama-zk/icicle-snark](https://github.com/ingonyama-zk/icicle-snark) - Groth16 over ICICLE (2 days ago)
 - [libp2p/testlab](https://github.com/libp2p/testlab) - A testlab built with Nomad and Consul to analyze the behavior of p2p networks at scale (1 week ago)
 - [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library (1 month ago)
 - [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library (1 month ago)
@@ -44,7 +44,7 @@
 - [DoHoonKim8/halo2-lasso](https://github.com/DoHoonKim8/halo2-lasso) - Benchmark for adding Lasso lookup argument to halo2 backend (6 months ago)
 - [scipr-lab/ecfactory](https://github.com/scipr-lab/ecfactory) - SageMath library for constructing elliptic curves (6 months ago)
 - [nulltea/hyper-greco](https://github.com/nulltea/hyper-greco) - Verifiable FHE with GKR (7 months ago)
-- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (7 months ago)
+- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol. (8 months ago)
 
 #### 👷 Check out what I'm currently working on
 
