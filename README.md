@@ -30,7 +30,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [ingonyama-zk/icicle-snark](https://github.com/ingonyama-zk/icicle-snark) - Groth16 over ICICLE (4 days ago)
+- [ingonyama-zk/icicle-snark](https://github.com/ingonyama-zk/icicle-snark) - Groth16 over ICICLE (5 days ago)
 - [libp2p/testlab](https://github.com/libp2p/testlab) - A testlab built with Nomad and Consul to analyze the behavior of p2p networks at scale (1 week ago)
 - [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library (1 month ago)
 - [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library (1 month ago)
