@@ -10,7 +10,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Add: Client side Changes for Semaphore integration](https://github.com/gnosisguild/enclave/pull/375) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (today)
+- [Add: Client side Changes for Semaphore integration](https://github.com/gnosisguild/enclave/pull/375) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 day ago)
 - [[WIP]Add separate plugin for DRA(Dynamic Resource Allocation).](https://github.com/volcano-sh/volcano/pull/3577) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (9 months ago)
 - [Add dynamic resource allocation design details.](https://github.com/volcano-sh/volcano/pull/3487) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (11 months ago)
 - [refactor: change dynamicResources struct to DynamicResources](https://github.com/kubernetes/kubernetes/pull/124269) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 year ago)
@@ -31,7 +31,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [ingonyama-zk/icicle-snark](https://github.com/ingonyama-zk/icicle-snark) - Groth16 over ICICLE (5 days ago)
+- [ingonyama-zk/icicle-snark](https://github.com/ingonyama-zk/icicle-snark) - Groth16 over ICICLE (6 days ago)
 - [libp2p/testlab](https://github.com/libp2p/testlab) - A testlab built with Nomad and Consul to analyze the behavior of p2p networks at scale (1 week ago)
 - [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library (1 month ago)
 - [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library (1 month ago)
