@@ -37,7 +37,7 @@
 - [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library (1 month ago)
 - [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library (1 month ago)
 - [Aphoh/poly-multiproof](https://github.com/Aphoh/poly-multiproof) - Polynomial commitment schemes with fast openings on multiple points (1 month ago)
-- [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (1 month ago)
+- [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (2 months ago)
 - [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay (2 months ago)
 - [yugocabrio/NTT_implementation](https://github.com/yugocabrio/NTT_implementation) - Number Theoretic Transform (2 months ago)
 - [arkworks-rs/algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic (3 months ago)
