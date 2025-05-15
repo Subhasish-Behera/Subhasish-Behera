@@ -31,11 +31,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [worldfnd/ProveKit](https://github.com/worldfnd/ProveKit) - Client side zero-knowledge proving. (2 days ago)
-- [netbound/p2pflow](https://github.com/netbound/p2pflow) - Ethereum p2p traffic analysis with eBPF (3 days ago)
+- [worldfnd/ProveKit](https://github.com/worldfnd/ProveKit) - Client side zero-knowledge proving. (3 days ago)
+- [netbound/p2pflow](https://github.com/netbound/p2pflow) - Ethereum p2p traffic analysis with eBPF (4 days ago)
 - [cysic-labs/ZPrize-23-Prize1](https://github.com/cysic-labs/ZPrize-23-Prize1) -  (2 weeks ago)
-- [ingonyama-zk/icicle-snark](https://github.com/ingonyama-zk/icicle-snark) - Groth16 over ICICLE (2 weeks ago)
-- [libp2p/testlab](https://github.com/libp2p/testlab) - A testlab built with Nomad and Consul to analyze the behavior of p2p networks at scale (3 weeks ago)
+- [ingonyama-zk/icicle-snark](https://github.com/ingonyama-zk/icicle-snark) - Groth16 over ICICLE (3 weeks ago)
+- [libp2p/testlab](https://github.com/libp2p/testlab) - A testlab built with Nomad and Consul to analyze the behavior of p2p networks at scale (4 weeks ago)
 - [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library (1 month ago)
 - [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library (1 month ago)
 - [Aphoh/poly-multiproof](https://github.com/Aphoh/poly-multiproof) - Polynomial commitment schemes with fast openings on multiple points (1 month ago)
