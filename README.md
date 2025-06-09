@@ -10,7 +10,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [ Signoz cloud otel collector support ](https://github.com/gnosisguild/enclave/pull/463) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (6 days ago)
+- [ Signoz cloud otel collector support ](https://github.com/gnosisguild/enclave/pull/463) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 week ago)
 - [handle otel flag when used with `enclave nodes up`](https://github.com/gnosisguild/enclave/pull/457) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 week ago)
 - [Add: Client side Changes for Semaphore integration](https://github.com/gnosisguild/enclave/pull/375) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 month ago)
 - [[WIP]Add separate plugin for DRA(Dynamic Resource Allocation).](https://github.com/volcano-sh/volcano/pull/3577) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (11 months ago)
@@ -34,7 +34,7 @@
 #### ⭐ Check out my recent stars
 
 - [testground/testground](https://github.com/testground/testground) - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. (1 week ago)
-- [worldfnd/ProveKit](https://github.com/worldfnd/ProveKit) - Client side zero-knowledge proving. (3 weeks ago)
+- [worldfnd/ProveKit](https://github.com/worldfnd/ProveKit) - Client side zero-knowledge proving. (4 weeks ago)
 - [netbound/p2pflow](https://github.com/netbound/p2pflow) - Ethereum p2p traffic analysis with eBPF (4 weeks ago)
 - [cysic-labs/ZPrize-23-Prize1](https://github.com/cysic-labs/ZPrize-23-Prize1) -  (1 month ago)
 - [ingonyama-zk/icicle-snark](https://github.com/ingonyama-zk/icicle-snark) - Groth16 over ICICLE (1 month ago)
