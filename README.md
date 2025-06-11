@@ -10,7 +10,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [change the `enclave wizard` command to enclave `config-set`](https://github.com/gnosisguild/enclave/pull/491) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (today)
+- [change the `enclave wizard` command to enclave `config-set`](https://github.com/gnosisguild/enclave/pull/491) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 day ago)
 - [ Signoz cloud otel collector support ](https://github.com/gnosisguild/enclave/pull/463) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 week ago)
 - [handle otel flag when used with `enclave nodes up`](https://github.com/gnosisguild/enclave/pull/457) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 week ago)
 - [Add: Client side Changes for Semaphore integration](https://github.com/gnosisguild/enclave/pull/375) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 month ago)
@@ -34,7 +34,7 @@
 #### ⭐ Check out my recent stars
 
 - [testground/testground](https://github.com/testground/testground) - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. (1 week ago)
-- [worldfnd/ProveKit](https://github.com/worldfnd/ProveKit) - Client side zero-knowledge proving. (4 weeks ago)
+- [worldfnd/ProveKit](https://github.com/worldfnd/ProveKit) - Client side zero-knowledge proving. (1 month ago)
 - [netbound/p2pflow](https://github.com/netbound/p2pflow) - Ethereum p2p traffic analysis with eBPF (1 month ago)
 - [cysic-labs/ZPrize-23-Prize1](https://github.com/cysic-labs/ZPrize-23-Prize1) -  (1 month ago)
 - [ingonyama-zk/icicle-snark](https://github.com/ingonyama-zk/icicle-snark) - Groth16 over ICICLE (1 month ago)
@@ -52,7 +52,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Subhasish-Behera/TCP-Server-Client](https://github.com/Subhasish-Behera/TCP-Server-Client) - playing with rust (4 months ago)
-- [Subhasish-Behera/enclave_inclusion](https://github.com/Subhasish-Behera/enclave_inclusion) -  (6 months ago)
+- [Subhasish-Behera/enclave_inclusion](https://github.com/Subhasish-Behera/enclave_inclusion) -  (7 months ago)
 - [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (9 months ago)
 - [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (9 months ago)
 
