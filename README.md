@@ -10,7 +10,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [change the `enclave wizard` command to enclave `config-set`](https://github.com/gnosisguild/enclave/pull/491) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 day ago)
+- [change the `enclave wizard` command to enclave `config-set`](https://github.com/gnosisguild/enclave/pull/491) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (2 days ago)
 - [ Signoz cloud otel collector support ](https://github.com/gnosisguild/enclave/pull/463) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 week ago)
 - [handle otel flag when used with `enclave nodes up`](https://github.com/gnosisguild/enclave/pull/457) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 week ago)
 - [Add: Client side Changes for Semaphore integration](https://github.com/gnosisguild/enclave/pull/375) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 month ago)
