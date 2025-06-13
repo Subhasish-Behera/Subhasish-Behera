@@ -10,9 +10,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [change the `enclave wizard` command to enclave `config-set`](https://github.com/gnosisguild/enclave/pull/491) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (2 days ago)
+- [change the `enclave wizard` command to enclave `config-set`](https://github.com/gnosisguild/enclave/pull/491) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (3 days ago)
 - [ Signoz cloud otel collector support ](https://github.com/gnosisguild/enclave/pull/463) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 week ago)
-- [handle otel flag when used with `enclave nodes up`](https://github.com/gnosisguild/enclave/pull/457) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 week ago)
+- [handle otel flag when used with `enclave nodes up`](https://github.com/gnosisguild/enclave/pull/457) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (2 weeks ago)
 - [Add: Client side Changes for Semaphore integration](https://github.com/gnosisguild/enclave/pull/375) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 month ago)
 - [[WIP]Add separate plugin for DRA(Dynamic Resource Allocation).](https://github.com/volcano-sh/volcano/pull/3577) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (11 months ago)
 - [Add dynamic resource allocation design details.](https://github.com/volcano-sh/volcano/pull/3487) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (1 year ago)
