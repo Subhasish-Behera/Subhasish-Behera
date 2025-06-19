@@ -33,6 +33,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [zkMIPS/zkMIPS](https://github.com/zkMIPS/zkMIPS) - zkMIPS 1.0: An open-source, simple, stable, and universal zkVM on MIPS32r2.   (today)
 - [testground/testground](https://github.com/testground/testground) - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. (2 weeks ago)
 - [worldfnd/ProveKit](https://github.com/worldfnd/ProveKit) - Client side zero-knowledge proving. (1 month ago)
 - [netbound/p2pflow](https://github.com/netbound/p2pflow) - Ethereum p2p traffic analysis with eBPF (1 month ago)
@@ -47,7 +48,6 @@
 - [yugocabrio/NTT_implementation](https://github.com/yugocabrio/NTT_implementation) - Number Theoretic Transform (4 months ago)
 - [arkworks-rs/algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic (5 months ago)
 - [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv (5 months ago)
-- [arkworks-rs/circom-compat](https://github.com/arkworks-rs/circom-compat) - Arkworks bindings to Circom&#39;s R1CS, for Groth16 Proof and Witness generation in Rust. (5 months ago)
 
 #### 👷 Check out what I'm currently working on
 
