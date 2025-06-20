@@ -12,7 +12,7 @@
 
 - [change the `enclave wizard` command to enclave `config-set`](https://github.com/gnosisguild/enclave/pull/491) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 week ago)
 - [ Signoz cloud otel collector support ](https://github.com/gnosisguild/enclave/pull/463) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (2 weeks ago)
-- [handle otel flag when used with `enclave nodes up`](https://github.com/gnosisguild/enclave/pull/457) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (2 weeks ago)
+- [handle otel flag when used with `enclave nodes up`](https://github.com/gnosisguild/enclave/pull/457) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (3 weeks ago)
 - [Add: Client side Changes for Semaphore integration](https://github.com/gnosisguild/enclave/pull/375) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 month ago)
 - [[WIP]Add separate plugin for DRA(Dynamic Resource Allocation).](https://github.com/volcano-sh/volcano/pull/3577) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (11 months ago)
 - [Add dynamic resource allocation design details.](https://github.com/volcano-sh/volcano/pull/3487) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (1 year ago)
@@ -33,7 +33,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [zkMIPS/zkMIPS](https://github.com/zkMIPS/zkMIPS) - zkMIPS 1.0: An open-source, simple, stable, and universal zkVM on MIPS32r2.   (today)
+- [zkMIPS/zkMIPS](https://github.com/zkMIPS/zkMIPS) - zkMIPS 1.0: An open-source, simple, stable, and universal zkVM on MIPS32r2.   (1 day ago)
 - [testground/testground](https://github.com/testground/testground) - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. (2 weeks ago)
 - [worldfnd/ProveKit](https://github.com/worldfnd/ProveKit) - Client side zero-knowledge proving. (1 month ago)
 - [netbound/p2pflow](https://github.com/netbound/p2pflow) - Ethereum p2p traffic analysis with eBPF (1 month ago)
