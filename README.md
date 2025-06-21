@@ -33,7 +33,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [zkMIPS/zkMIPS](https://github.com/zkMIPS/zkMIPS) - zkMIPS 1.0: An open-source, simple, stable, and universal zkVM on MIPS32r2.   (1 day ago)
+- [zkMIPS/zkMIPS](https://github.com/zkMIPS/zkMIPS) - zkMIPS 1.0: An open-source, simple, stable, and universal zkVM on MIPS32r2.   (2 days ago)
 - [testground/testground](https://github.com/testground/testground) - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. (2 weeks ago)
 - [worldfnd/ProveKit](https://github.com/worldfnd/ProveKit) - Client side zero-knowledge proving. (1 month ago)
 - [netbound/p2pflow](https://github.com/netbound/p2pflow) - Ethereum p2p traffic analysis with eBPF (1 month ago)
