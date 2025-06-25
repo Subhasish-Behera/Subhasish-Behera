@@ -33,6 +33,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [hashcloak/semaphore-noir](https://github.com/hashcloak/semaphore-noir) - A zero-knowledge protocol for anonymous interactions. (today)
 - [zkMIPS/zkMIPS](https://github.com/zkMIPS/zkMIPS) - zkMIPS 1.0: An open-source, simple, stable, and universal zkVM on MIPS32r2.   (6 days ago)
 - [testground/testground](https://github.com/testground/testground) - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. (3 weeks ago)
 - [worldfnd/ProveKit](https://github.com/worldfnd/ProveKit) - Client side zero-knowledge proving. (1 month ago)
@@ -47,7 +48,6 @@
 - [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay (4 months ago)
 - [yugocabrio/NTT_implementation](https://github.com/yugocabrio/NTT_implementation) - Number Theoretic Transform (4 months ago)
 - [arkworks-rs/algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic (5 months ago)
-- [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv (5 months ago)
 
 #### 👷 Check out what I'm currently working on
 
