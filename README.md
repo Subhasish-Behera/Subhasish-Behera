@@ -33,8 +33,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [hashcloak/semaphore-noir](https://github.com/hashcloak/semaphore-noir) - A zero-knowledge protocol for anonymous interactions. (today)
-- [zkMIPS/zkMIPS](https://github.com/zkMIPS/zkMIPS) - zkMIPS 1.0: An open-source, simple, stable, and universal zkVM on MIPS32r2.   (6 days ago)
+- [hashcloak/semaphore-noir](https://github.com/hashcloak/semaphore-noir) - A zero-knowledge protocol for anonymous interactions. (1 day ago)
+- [zkMIPS/zkMIPS](https://github.com/zkMIPS/zkMIPS) - zkMIPS 1.0: An open-source, simple, stable, and universal zkVM on MIPS32r2.   (1 week ago)
 - [testground/testground](https://github.com/testground/testground) - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. (3 weeks ago)
 - [worldfnd/ProveKit](https://github.com/worldfnd/ProveKit) - Client side zero-knowledge proving. (1 month ago)
 - [netbound/p2pflow](https://github.com/netbound/p2pflow) - Ethereum p2p traffic analysis with eBPF (1 month ago)
