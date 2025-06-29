@@ -33,6 +33,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [tkhq/qos](https://github.com/tkhq/qos) - QuorumOS is a computation layer for running applications inside Trusted Execution Environments (TEEs) (today)
 - [hashcloak/semaphore-noir](https://github.com/hashcloak/semaphore-noir) - A zero-knowledge protocol for anonymous interactions. (4 days ago)
 - [zkMIPS/zkMIPS](https://github.com/zkMIPS/zkMIPS) - zkMIPS 1.0: An open-source, simple, stable, and universal zkVM on MIPS32r2.   (1 week ago)
 - [testground/testground](https://github.com/testground/testground) - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. (4 weeks ago)
@@ -47,7 +48,6 @@
 - [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution (3 months ago)
 - [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay (4 months ago)
 - [yugocabrio/NTT_implementation](https://github.com/yugocabrio/NTT_implementation) - Number Theoretic Transform (4 months ago)
-- [arkworks-rs/algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic (5 months ago)
 
 #### 👷 Check out what I'm currently working on
 
