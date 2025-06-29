@@ -10,10 +10,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Semaphore noir fix](https://github.com/gnosisguild/enclave/pull/556) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (2 days ago)
+- [Semaphore noir fix](https://github.com/gnosisguild/enclave/pull/556) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (3 days ago)
 - [change the `enclave wizard` command to enclave `config-set`](https://github.com/gnosisguild/enclave/pull/491) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (2 weeks ago)
 - [ Signoz cloud otel collector support ](https://github.com/gnosisguild/enclave/pull/463) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (3 weeks ago)
-- [handle otel flag when used with `enclave nodes up`](https://github.com/gnosisguild/enclave/pull/457) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (4 weeks ago)
+- [handle otel flag when used with `enclave nodes up`](https://github.com/gnosisguild/enclave/pull/457) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (1 month ago)
 - [Add: Client side Changes for Semaphore integration](https://github.com/gnosisguild/enclave/pull/375) on [gnosisguild/enclave](https://github.com/gnosisguild/enclave) (2 months ago)
 - [[WIP]Add separate plugin for DRA(Dynamic Resource Allocation).](https://github.com/volcano-sh/volcano/pull/3577) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (11 months ago)
 - [Add dynamic resource allocation design details.](https://github.com/volcano-sh/volcano/pull/3487) on [volcano-sh/volcano](https://github.com/volcano-sh/volcano) (1 year ago)
@@ -33,12 +33,12 @@
 
 #### ⭐ Check out my recent stars
 
-- [hashcloak/semaphore-noir](https://github.com/hashcloak/semaphore-noir) - A zero-knowledge protocol for anonymous interactions. (3 days ago)
+- [hashcloak/semaphore-noir](https://github.com/hashcloak/semaphore-noir) - A zero-knowledge protocol for anonymous interactions. (4 days ago)
 - [zkMIPS/zkMIPS](https://github.com/zkMIPS/zkMIPS) - zkMIPS 1.0: An open-source, simple, stable, and universal zkVM on MIPS32r2.   (1 week ago)
-- [testground/testground](https://github.com/testground/testground) - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. (3 weeks ago)
+- [testground/testground](https://github.com/testground/testground) - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. (4 weeks ago)
 - [worldfnd/ProveKit](https://github.com/worldfnd/ProveKit) - Client side zero-knowledge proving. (1 month ago)
 - [netbound/p2pflow](https://github.com/netbound/p2pflow) - Ethereum p2p traffic analysis with eBPF (1 month ago)
-- [cysic-labs/ZPrize-23-Prize1](https://github.com/cysic-labs/ZPrize-23-Prize1) -  (1 month ago)
+- [cysic-labs/ZPrize-23-Prize1](https://github.com/cysic-labs/ZPrize-23-Prize1) -  (2 months ago)
 - [ingonyama-zk/icicle-snark](https://github.com/ingonyama-zk/icicle-snark) - Groth16 over ICICLE (2 months ago)
 - [libp2p/testlab](https://github.com/libp2p/testlab) - A testlab built with Nomad and Consul to analyze the behavior of p2p networks at scale (2 months ago)
 - [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library (3 months ago)
