@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>Hii !🤝 I am Subhasish Behera<br>🌱 I’m interested in Ethereum Core Protocol development, Distributed Systems, Distributed Infra. <br>
-Currently working on Ethereum CLs, PBS(Proposer-Builder-Separation), MEV, and P2P infra.
+Currently working on Ethereum CL Clients, PBS(Proposer-Builder-Separation), MEV, and P2P infra. I prefer to work with Rust and Go.
 
 email: greendoor3000@gmail.com
 ## 🌐 Socials:
