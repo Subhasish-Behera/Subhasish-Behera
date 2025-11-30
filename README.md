@@ -4,6 +4,7 @@ Currently working on Ethereum CL Clients, PBS(Proposer-Builder-Separation), MEV,
 Always interested in privacy-preserving systems in the above areas.
 
 email: greendoor3000@gmail.com
+tg: subVeera
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kenny_007_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhasish-b-605654224/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thouartround) 
 
