@@ -27,9 +27,8 @@ discord: kenny_007_
 - [chore: Add build_info_metrics using set(constant) gauge](https://github.com/BuilderNet/FlowProxy/pull/155) on [BuilderNet/FlowProxy](https://github.com/BuilderNet/FlowProxy)
 - [Delay attestations with payload_present=1 until envelope received](https://github.com/grandinetech/grandine/pull/673) on [grandinetech/grandine](https://github.com/grandinetech/grandine)
 
-#### ⭐ Check out my selected stars
+#### ⭐ Check out my recent stars
 
-- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Direct Ethereum PoS consensus specs.
 - [ethereum/beacon-metrics](https://github.com/ethereum/beacon-metrics) - Production beacon-node observability.
 - [ethpandaops/ethereum-package](https://github.com/ethpandaops/ethereum-package) - Ethereum devnet infra, very production-adjacent.
 - [testground/testground](https://github.com/testground/testground) - Distributed and p2p systems testing at scale.
@@ -44,3 +43,4 @@ discord: kenny_007_
 - [BuilderNet/FlowProxy](https://github.com/BuilderNet/FlowProxy) - Orderflow ingestion, processing, and multiplexing engine.
 - [flashbots/rbuilder](https://github.com/flashbots/rbuilder) - Ethereum MEV-Boost block builder in Rust.
 - [flashbots/rbuilder-operator](https://github.com/flashbots/rbuilder-operator) - Block builder implementation for a TDX context.
+- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Direct Ethereum PoS consensus specs.
