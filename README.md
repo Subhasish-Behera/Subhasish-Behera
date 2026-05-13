@@ -9,6 +9,20 @@ tg: subVeera
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kenny_007_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhasish-b-605654224/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thouartround) 
 
+#### 🔨 Check out my pull requests
+
+- [Delay attestations with payload_present=1 until envelope received](https://github.com/grandinetech/grandine/pull/673)
+- [feat: Add ProposerPreferences gossip handling and broadcasting](https://github.com/grandinetech/grandine/pull/579)
+- [feat: Add suport for request/response for execution_payload_envelopes for gloas](https://github.com/grandinetech/grandine/pull/439)
+- [feat: Add topic changes for gloas](https://github.com/grandinetech/grandine/pull/483)
+- [feat: Add envelopes by range/root req/resp for Gloas](https://github.com/grandinetech/eth2_libp2p/pull/20)
+- [feat: enable internal block building route for gloas](https://github.com/grandinetech/grandine/pull/494)
+- [Add back-sync support for execution payload envelope](https://github.com/grandinetech/grandine/pull/550)
+- [PTC Cache Implementation](https://github.com/grandinetech/grandine/pull/488)
+- [feat: Add changes for Gloas Fork](https://github.com/grandinetech/eth2_libp2p/pull/19)
+- [Add proposer_preferences gossip topic](https://github.com/grandinetech/eth2_libp2p/pull/25)
+- [fix(rpc): compute envelope max size arithmetically to avoid OOM](https://github.com/grandinetech/eth2_libp2p/pull/26)
+- [feat(gloas): add GET /eth/v1/beacon/execution_payload_envelope/{block_id}](https://github.com/grandinetech/grandine/pull/674)
 
 #### ⭐ Check out my recent stars
 
@@ -27,10 +41,3 @@ tg: subVeera
 - [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution 
 - [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay 
 - [yugocabrio/NTT_implementation](https://github.com/yugocabrio/NTT_implementation) - Number Theoretic Transform 
-
-#### 👷 Check out what I'm currently working on
-
-- [Subhasish-Behera/enclave_inclusion](https://github.com/Subhasish-Behera/enclave_inclusion) -  (7 months ago)
-- [Subhasish-Behera/primality-folding](https://github.com/Subhasish-Behera/primality-folding) -  (10 months ago)
-- [Subhasish-Behera/roughraft](https://github.com/Subhasish-Behera/roughraft) -  (10 months ago)
-
