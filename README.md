@@ -29,18 +29,18 @@ discord: kenny_007_
 
 #### ⭐ Check out my recent stars
 
-- [ethereum/beacon-metrics](https://github.com/ethereum/beacon-metrics) - Production beacon-node observability.
-- [ethpandaops/ethereum-package](https://github.com/ethpandaops/ethereum-package) - Ethereum devnet infra, very production-adjacent.
-- [testground/testground](https://github.com/testground/testground) - Distributed and p2p systems testing at scale.
-- [libp2p/testlab](https://github.com/libp2p/testlab) - P2P network behavior testing at scale.
-- [migalabs/armiarma](https://github.com/migalabs/armiarma) - Ethereum CL libp2p network crawler.
-- [netbound/p2pflow](https://github.com/netbound/p2pflow) - Ethereum p2p traffic analysis with eBPF.
-- [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay.
-- [commonwarexyz/monorepo](https://github.com/commonwarexyz/monorepo) - Distributed systems primitives.
-- [chainbound/msg-rs](https://github.com/chainbound/msg-rs) - Rust messaging library for distributed systems.
-- [ackintosh/ray](https://github.com/ackintosh/ray) - Ethereum beacon node implementation.
-- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - HotStuff consensus implementation.
-- [BuilderNet/FlowProxy](https://github.com/BuilderNet/FlowProxy) - Orderflow ingestion, processing, and multiplexing engine.
-- [flashbots/rbuilder](https://github.com/flashbots/rbuilder) - Ethereum MEV-Boost block builder in Rust.
-- [flashbots/rbuilder-operator](https://github.com/flashbots/rbuilder-operator) - Block builder implementation for a TDX context.
-- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Direct Ethereum PoS consensus specs.
+- [ethereum/beacon-metrics](https://github.com/ethereum/beacon-metrics) - Informative spec for beacon node metrics
+- [ethpandaops/ethereum-package](https://github.com/ethpandaops/ethereum-package) - A Kurtosis package that deploys a private, portable, and modular Ethereum devnet
+- [testground/testground](https://github.com/testground/testground) - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale.
+- [libp2p/testlab](https://github.com/libp2p/testlab) - A testlab built with Nomad and Consul to analyze the behavior of p2p networks at scale
+- [migalabs/armiarma](https://github.com/migalabs/armiarma) - Armiarma is a Libp2p open-network crawler with a current focus on Ethereum's CL network
+- [netbound/p2pflow](https://github.com/netbound/p2pflow) - Ethereum p2p traffic analysis with eBPF
+- [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay
+- [commonwarexyz/monorepo](https://github.com/commonwarexyz/monorepo) - Commonware Library Primitives and Examples
+- [chainbound/msg-rs](https://github.com/chainbound/msg-rs) - Messaging library for distributed systems built in Rust
+- [ackintosh/ray](https://github.com/ackintosh/ray) - An open-source Ethereum Beacon Node implementation crafted for educational purposes.
+- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - Implementation of the HotStuff consensus protocol.
+- [BuilderNet/FlowProxy](https://github.com/BuilderNet/FlowProxy) - Orderflow Ingestion, Processing and Multiplexing Engine
+- [flashbots/rbuilder](https://github.com/flashbots/rbuilder) - rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust
+- [flashbots/rbuilder-operator](https://github.com/flashbots/rbuilder-operator) - Specific implementation (based on the public rbuilder) of a block builder to be used on a TDX context.
+- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Ethereum Proof-of-Stake Consensus Specifications
