@@ -11,7 +11,6 @@ tg: subVeera
 
 #### 🔨 Check out my pull requests
 
-- [Delay attestations with payload_present=1 until envelope received](https://github.com/grandinetech/grandine/pull/673) on [grandinetech/grandine](https://github.com/grandinetech/grandine)
 - [feat: Add ProposerPreferences gossip handling and broadcasting](https://github.com/grandinetech/grandine/pull/579) on [grandinetech/grandine](https://github.com/grandinetech/grandine)
 - [feat: Add suport for request/response for execution_payload_envelopes for gloas](https://github.com/grandinetech/grandine/pull/439) on [grandinetech/grandine](https://github.com/grandinetech/grandine)
 - [feat: Add topic changes for gloas](https://github.com/grandinetech/grandine/pull/483) on [grandinetech/grandine](https://github.com/grandinetech/grandine)
@@ -23,6 +22,8 @@ tg: subVeera
 - [Add proposer_preferences gossip topic](https://github.com/grandinetech/eth2_libp2p/pull/25) on [grandinetech/eth2_libp2p](https://github.com/grandinetech/eth2_libp2p)
 - [fix(rpc): compute envelope max size arithmetically to avoid OOM](https://github.com/grandinetech/eth2_libp2p/pull/26) on [grandinetech/eth2_libp2p](https://github.com/grandinetech/eth2_libp2p)
 - [feat(gloas): add GET /eth/v1/beacon/execution_payload_envelope/{block_id}](https://github.com/grandinetech/grandine/pull/674) on [grandinetech/grandine](https://github.com/grandinetech/grandine)
+- [chore: Add build_info_metrics using set(constant) gauge](https://github.com/BuilderNet/FlowProxy/pull/155) on [BuilderNet/FlowProxy](https://github.com/BuilderNet/FlowProxy)
+- [Delay attestations with payload_present=1 until envelope received](https://github.com/grandinetech/grandine/pull/673) on [grandinetech/grandine](https://github.com/grandinetech/grandine)
 
 #### ⭐ Check out my recent stars
 
