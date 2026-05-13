@@ -27,20 +27,20 @@ discord: kenny_007_
 - [chore: Add build_info_metrics using set(constant) gauge](https://github.com/BuilderNet/FlowProxy/pull/155) on [BuilderNet/FlowProxy](https://github.com/BuilderNet/FlowProxy)
 - [Delay attestations with payload_present=1 until envelope received](https://github.com/grandinetech/grandine/pull/673) on [grandinetech/grandine](https://github.com/grandinetech/grandine)
 
-#### ⭐ Check out my recent stars
+#### ⭐ Check out my selected stars
 
-- [tkhq/qos](https://github.com/tkhq/qos) - QuorumOS is a computation layer for running applications inside Trusted Execution Environments (TEEs) 
-- [hashcloak/semaphore-noir](https://github.com/hashcloak/semaphore-noir) - A zero-knowledge protocol for anonymous interactions. 
-- [zkMIPS/zkMIPS](https://github.com/zkMIPS/zkMIPS) - zkMIPS 1.0: An open-source, simple, stable, and universal zkVM on MIPS32r2.  
-- [testground/testground](https://github.com/testground/testground) - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. 
-- [worldfnd/ProveKit](https://github.com/worldfnd/ProveKit) - Client side zero-knowledge proving. 
-- [netbound/p2pflow](https://github.com/netbound/p2pflow) - Ethereum p2p traffic analysis with eBPF 
-- [cysic-labs/ZPrize-23-Prize1](https://github.com/cysic-labs/ZPrize-23-Prize1) 
-- [ingonyama-zk/icicle-snark](https://github.com/ingonyama-zk/icicle-snark) - Groth16 over ICICLE 
-- [libp2p/testlab](https://github.com/libp2p/testlab) - A testlab built with Nomad and Consul to analyze the behavior of p2p networks at scale 
-- [supranational/sppark](https://github.com/supranational/sppark) - Zero-knowledge template library 
-- [supranational/blst](https://github.com/supranational/blst) - Multilingual BLS12-381 signature library 
-- [Aphoh/poly-multiproof](https://github.com/Aphoh/poly-multiproof) - Polynomial commitment schemes with fast openings on multiple points 
-- [rust-threadpool/rust-threadpool](https://github.com/rust-threadpool/rust-threadpool) - A very simple thread pool for parallel task execution 
-- [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay 
-- [yugocabrio/NTT_implementation](https://github.com/yugocabrio/NTT_implementation) - Number Theoretic Transform 
+- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) - Direct Ethereum PoS consensus specs.
+- [ethereum/beacon-metrics](https://github.com/ethereum/beacon-metrics) - Production beacon-node observability.
+- [ethpandaops/ethereum-package](https://github.com/ethpandaops/ethereum-package) - Ethereum devnet infra, very production-adjacent.
+- [testground/testground](https://github.com/testground/testground) - Distributed and p2p systems testing at scale.
+- [libp2p/testlab](https://github.com/libp2p/testlab) - P2P network behavior testing at scale.
+- [migalabs/armiarma](https://github.com/migalabs/armiarma) - Ethereum CL libp2p network crawler.
+- [netbound/p2pflow](https://github.com/netbound/p2pflow) - Ethereum p2p traffic analysis with eBPF.
+- [holiman/factor](https://github.com/holiman/factor) - CL &lt;-&gt; EL multiplexing relay.
+- [commonwarexyz/monorepo](https://github.com/commonwarexyz/monorepo) - Distributed systems primitives.
+- [chainbound/msg-rs](https://github.com/chainbound/msg-rs) - Rust messaging library for distributed systems.
+- [ackintosh/ray](https://github.com/ackintosh/ray) - Ethereum beacon node implementation.
+- [asonnino/hotstuff](https://github.com/asonnino/hotstuff) - HotStuff consensus implementation.
+- [BuilderNet/FlowProxy](https://github.com/BuilderNet/FlowProxy) - Orderflow ingestion, processing, and multiplexing engine.
+- [flashbots/rbuilder](https://github.com/flashbots/rbuilder) - Ethereum MEV-Boost block builder in Rust.
+- [flashbots/rbuilder-operator](https://github.com/flashbots/rbuilder-operator) - Block builder implementation for a TDX context.
